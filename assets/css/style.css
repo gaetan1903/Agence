@@ -616,7 +616,7 @@ section {
 }
 
 .featured-services .icon i {
-  color: #101046;
+  color: #1f1fa2;
   font-size: 42px;
 }
 
@@ -1465,5 +1465,10 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+
+.ae-travel {
+  color: #101046;
 }
 
