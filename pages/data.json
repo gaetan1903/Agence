@@ -317,7 +317,7 @@
             "programs": [
                 {
                     "day": 1,
-                    "distance": "AArrivée à Antananarivo et transfert à l’hôtel.",
+                    "distance": "Arrivée à Antananarivo et transfert à l’hôtel.",
                     "description": "Nuitée à l’hôtel Antananarivo."
                 },
                 {
@@ -464,28 +464,27 @@
                 }
             ]
         },
-        // Still not finished
         {
-            "title": "Circuit Tsingy de Bemaraha et allée de Baobab",
-            "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
-            "duration": "11 jours et 10 nuits",
+            "title": "Marojejy",
+            "description": "Partez à la découverte de la plus belle montagne de Madagascar. Marojejy se trouve dans la partie nord-est de Madagascar, soit à 60km à l’ouest de la ville de Sambava. Marojejy figure parmi les plus beaux parcs nationaux de Madagascar, mais il faut vraiment être sportif et aventureux pour pouvoir découvrir l’ensemble de ce parc. Il est le seul endroit où vous pourrez observer le magnifique lémurien propithèque soyeux. A part cela, Marojejy vous plongera à la rencontre d’une biodiversité unique et exceptionnelle de Madagascar.",
+            "duration": "09 jours et 08 nuits",
             "price": "À partir de 995€s/personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 690 €s /personne"
+                    "price": "1 490 euro/personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 195 €s/personne"
+                    "price": "1 180 euro/personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 090 €s/personne"
+                    "price": "1 090 euro/personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "995 €s/personne"
+                    "price": "995 euro/personne"
                 }
             ],
             "include": [
@@ -507,7 +506,7 @@
             "programs": [
                 {
                     "day": 1,
-                    "distance": "AArrivée à Antananarivo et transfert à l’hôtel.",
+                    "distance": "Arrivée à Antananarivo et transfert à l’hôtel.",
                     "description": "Nuitée à l’hôtel Antananarivo."
                 },
                 {
@@ -594,7 +593,7 @@
             "programs": [
                 {
                     "day": 1,
-                    "distance": "AArrivée à Antananarivo et transfert à l’hôtel.",
+                    "distance": "Arrivée à Antananarivo et transfert à l’hôtel.",
                     "description": "Nuitée à l’hôtel Antananarivo."
                 },
                 {
