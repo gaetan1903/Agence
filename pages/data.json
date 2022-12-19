@@ -361,6 +361,426 @@
                     "description": "Dans la matinée, nous ferons une excursion vers le mystérieux lac Tritriva et rentrer à Antananarivo après le déjeuner."
                 }
             ]
+        },
+        {
+            "title": "Circuit Est de Madagascar",
+            "description": "La côte Est de Madagascar est la destination parfaite pour les amoureux de la nature, des animaux sauvages et de la plage. Pendant votre passage à Andasibe et à Vohimana, vous aurez l’occasion d’observer des lémuriens Indri Indri qui sont les plus grands lémuriens de Madagascar. Ensuite, vous continuez le périple vers Manambato et Ankan’ny Nofy pour faire un tour dans ces grands lacs et dans la réserve de Palmarium. Puis, le voyage continue vers l’île sainte Marie pour un séjour balnéaire et safari baleine.",
+            "duration": "11 jours et 10 nuits",
+            "price": "À partir de 990 euro/personne",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "1 295 euro/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "1 200 €s/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "1 130 euro/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "990 €s/personne"
+                }
+            ],
+            "include": [
+                "Location de voiture avec chauffeur et carburants",
+                "Guide accompagnateur",
+                "Hébergement durant le circuit (hôtels moyenne gamme)",
+                "Toutes les activités mentionnées dans le programme",
+                "Tickets d’entrée dans les sites à visiter dans le programme",
+                "Guides locaux",
+                "Les déjeuners pique-niques durant les excursions à Sainte Marie",
+                "Vol domestique entre Sainte Marie et Antananarivo"
+            ],
+            "exclude": [
+                "Vols internationaux",
+                "Bouteilles d’eau et boissons",
+                "Les repas durant le circuit",
+                "Les activités non mentionnées dans le programme"
+            ],
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "Arrivée à Antananarivo et transfert à l’hôtel.",
+                    "description": "Nuitée à l’hôtel Antananarivo."
+                },
+                {
+                    "day": 2,
+                    "distance": "Antananarivo – Andasibe (141km, 03h)",
+                    "description": "En route pour Andasibe après le petit déjeuner. Un arrêt au réserve de Periryas à Marovezo pour voir plusieurs espèces d’animaux endémiques de Madagascar. Déjeuner dans un restaurant à Andasibe et visite de la réserve privée de Vakona dans l’après-midi. Nuitée à l’hôtel Andasibe."
+                },
+                {
+                    "day": 3,
+                    "distance": "Andasibe – Vohimana (20km, 30min)",
+                    "description": "Visite du parc national d’Andasibe dans la matinée. C’est le rendez-vous avec des Indri ndri et d’autres espèces animales et végétales. Déjeuner à Andasibe et en route pour Vohimana dans l’après-midi, qui se trouve à seulement 20 km d’Andasibe.<br>Nuitée à Vohimana."
+                } ,
+                {
+                    "day": 4,
+                    "distance": "Vohimana",
+                    "description": "Nous consacrons cette journée à la découverte des trésors de la réserve de Vohimana. Des cascades, des piscines naturelles, des oiseux, des reptiles, des lémuriens et plusieurs plantes endémiques sont observables sur place.<br>Nuitée à Vohimana."
+                },
+                {
+                    "day": 5,
+                    "distance": "Vohimana – Manambato (236km, 05h)",
+                    "description": "Après le petit déjeuner, nous continuons le circuit vers Manambato et nous y passerons deux nuits.<br>Nuitée à l’hôtel Manambato."
+                },
+                {
+                    "day": 6,
+                    "distance": "Excursion Ankan’ny Nofy",
+                    "description": "Après le petit déjeuner, nous traversons en bateau le canal de pangalane pour se rendre à la réserve d’Ankan’ny Nofy. C’est un site très authentique, situé entre des lacs d’eau douce et l’océan Indien. Ankan’ny Nofy conquit les cœurs de ses visiteurs grâce à sa richesse faunistique et floristique. Vous y ferez une rencontre avec de lémurien catta ou maki, Sifaka, Indri indri et également d’Aye-Aye.<br>Nuitée à l’hôtel Manambato"
+                },
+                {
+                    "day": 7,
+                    "distance": "Manambato – Tamatave (125km, 03h)",
+                    "description": "Nous quittons Manambato pour aller à Tamatave avant de continuer vers l’île Sainte Marie.<br>Nuitée à l’hôtel Tamatave."
+                },
+                {
+                    "day": 8,
+                    "distance": "Tamatave – Sainte Marie (150km, 04h)",
+                    "description": "Le point d’embarquement en bateau vers Sainte Marie se trouve à Soanierana Ivongo. Nous ferons 03heures de route pour s’y rendre, et ensuite prendre un bateau pour Sainte Marie. Nuitée à l’hôtel Sainte Marie."
+                },
+                {
+                    "day": 9,
+                    "distance": "Sainte Marie",
+                    "description": "Excursion en 4x4 vers la cascade, la piscine naturelle et cimetières des pirates.<br>Nuitée à l’hôtel Sainte Marie."
+                },
+                {
+                    "day": 10,
+                    "distance": "Sainte Marie",
+                    "description": "Excursion vers l’îles aux nattes, qui se trouve juste à côté de l’île Sainte Marie. C’est une petite île magnifique entourée des sables blancs et une mer d’émeraude.<br>Nuitée à l’hôtel Sainte Marie."
+                },
+                {
+                    "day": 10,
+                    "distance": "Sainte Marie",
+                    "description": "Sortie en mer pour faire un safari baleine, si la saison de votre voyage est adéquate à cette activité. C’est le moment pour assister aux beaux spectacles offerts par des grandes baleines qui passent autour de l’île Sainte Marie.<br>Nuitée à l’hôtel Sainte Marie."
+                },
+                {
+                    "day": 11,
+                    "distance": "Sainte Marie - Tana",
+                    "description": "Envol pour Antananarivo et transfert vers l’hôtel.<br>Nuitée à l’hôtel Antananarivo."
+                }
+            ]
+        },
+        // Still not finished
+        {
+            "title": "Circuit Tsingy de Bemaraha et allée de Baobab",
+            "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
+            "duration": "11 jours et 10 nuits",
+            "price": "À partir de 995€s/personne",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "1 690 €s /personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "1 195 €s/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "1 090 €s/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "995 €s/personne"
+                }
+            ],
+            "include": [
+                "Location de voiture avec chauffeur et carburants",
+                "Descente en pirogue sur le fleuve Tsiribihina",
+                "Pension complète durant la descente Tsiribihina",
+                "Guide accompagnateur",
+                "Hébergement durant le circuit (hôtels moyenne gamme)",
+                "Toutes les activités mentionnées dans le programme",
+                "Tickets d’entrée dans les sites à visiter dans le programme",
+                "Guides locaux"
+            ],
+            "exclude": [
+                "Vols internationaux",
+                "Bouteilles d’eau et boissons",
+                "Les repas durant le circuit",
+                "Les activités non mentionnées dans le programme"            
+            ],
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "AArrivée à Antananarivo et transfert à l’hôtel.",
+                    "description": "Nuitée à l’hôtel Antananarivo."
+                },
+                {
+                    "day": 2,
+                    "distance": "Antananarivo – Miandrivazo (660km, 11h)",
+                    "description": "En route pour l’aventure après le petit déjeuner. Une petite pause à Ambatolampy pour visiter la fonderie en aluminium qui fabrique des marmites majoritairement utilisées sur toute l’île. Déjeuner à Antsirabe et un petit tour de ville en pousse pousse avant de continuer le voyage vers Miandrivazo."
+                },
+                {
+                    "day": [3, 4, 5],
+                    "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
+                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour5"
+                } ,
+                {
+                    "day": 6,
+                    "distance": "Belo sur Tsiribihina – Bekopaka (150km, 06h)",
+                    "description": "Après le trajet en pirogue, nous continuons le trajet en 4x4, suivant une piste secondaire de 150 km pour rejoindre le village de Bekopaka qui est la porte d’entrée dans le fameux parc national de Tsingy de Bemaraha.<br>Nuitée à l’hôtel à Bekopaka."
+                },
+                {
+                    "day": 7,
+                    "distance": "Bekopaka – Tsingy de Bemaraha – Bekopaka",
+                    "description": "Le moment est venu pour explorer le spectaculaire Tsingy de Bemaraha. C’est un site protégé de 152 000ha, généralement composé par des roches des calcaires pointus de couleur grises. Ce parc est également riche en matières de faunes et flores comme des lémuriens, oiseaux aquatique et terrestres, amphibiens, reptiles, chauves-souris etc.<br>Nuitée à l’hôtel Bekopaka"
+                },
+                {
+                    "day": 8,
+                    "distance": "Bekopaka – Morondava (250km, 08h)",
+                    "description": "Direction vers le sud en empruntant une piste secondaire de 250 km jusqu’à Morondava. Nous passerons par la forêt de Kirindy et y faire une visite de 02 heures pour observer des plantes et animaux endémiques du pays. Ensuite, nous continuons le trajet vers Morondava afin de pouvoir contempler un magnifique couché sur l’allée de Baobab.<br>Nuitée à l’hôtel Morondava"
+                },
+                {
+                    "day": 9,
+                    "distance": "Morondava",
+                    "description": "C’est une journée pour découvrir la ville de Morondava. Nous commencerons par une belle balade en pirogue dans les mangroves. Ensuite, on vous amène faire un tour de ville sur Morondava pour mieux connaître cette ville d’une manière générale. Et puis dans l’après-midi, nous passerons un bon moment sur plage de Kimony qui se trouve au nord de Morondava.<br>Nuitée à l’hôtel Morondava"
+                },
+                {
+                    "day": 10,
+                    "distance": "Morondava – Antsirabe (530km, 08h)",
+                    "description": "Après le petit déjeuner, on reprend la route vers Antsirabe. Pas de lieu à visiter pour cette journée.<br>Nuitée à l’hôtel Antsirabe."
+                },
+                {
+                    "day": 11,
+                    "distance": "Antsirabe – Antananarivo (180km, 04h)",
+                    "description": "Dans la matinée, nous ferons une excursion vers le mystérieux lac Tritriva et rentrer à Antananarivo après le déjeuner."
+                }
+            ]
+        },
+        {
+            "title": "Circuit Tsingy de Bemaraha et allée de Baobab",
+            "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
+            "duration": "11 jours et 10 nuits",
+            "price": "À partir de 995€s/personne",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "1 690 €s /personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "1 195 €s/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "1 090 €s/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "995 €s/personne"
+                }
+            ],
+            "include": [
+                "Location de voiture avec chauffeur et carburants",
+                "Descente en pirogue sur le fleuve Tsiribihina",
+                "Pension complète durant la descente Tsiribihina",
+                "Guide accompagnateur",
+                "Hébergement durant le circuit (hôtels moyenne gamme)",
+                "Toutes les activités mentionnées dans le programme",
+                "Tickets d’entrée dans les sites à visiter dans le programme",
+                "Guides locaux"
+            ],
+            "exclude": [
+                "Vols internationaux",
+                "Bouteilles d’eau et boissons",
+                "Les repas durant le circuit",
+                "Les activités non mentionnées dans le programme"            
+            ],
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "AArrivée à Antananarivo et transfert à l’hôtel.",
+                    "description": "Nuitée à l’hôtel Antananarivo."
+                },
+                {
+                    "day": 2,
+                    "distance": "Antananarivo – Miandrivazo (660km, 11h)",
+                    "description": "En route pour l’aventure après le petit déjeuner. Une petite pause à Ambatolampy pour visiter la fonderie en aluminium qui fabrique des marmites majoritairement utilisées sur toute l’île. Déjeuner à Antsirabe et un petit tour de ville en pousse pousse avant de continuer le voyage vers Miandrivazo."
+                },
+                {
+                    "day": [3, 4, 5],
+                    "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
+                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour5"
+                } ,
+                {
+                    "day": 6,
+                    "distance": "Belo sur Tsiribihina – Bekopaka (150km, 06h)",
+                    "description": "Après le trajet en pirogue, nous continuons le trajet en 4x4, suivant une piste secondaire de 150 km pour rejoindre le village de Bekopaka qui est la porte d’entrée dans le fameux parc national de Tsingy de Bemaraha.<br>Nuitée à l’hôtel à Bekopaka."
+                },
+                {
+                    "day": 7,
+                    "distance": "Bekopaka – Tsingy de Bemaraha – Bekopaka",
+                    "description": "Le moment est venu pour explorer le spectaculaire Tsingy de Bemaraha. C’est un site protégé de 152 000ha, généralement composé par des roches des calcaires pointus de couleur grises. Ce parc est également riche en matières de faunes et flores comme des lémuriens, oiseaux aquatique et terrestres, amphibiens, reptiles, chauves-souris etc.<br>Nuitée à l’hôtel Bekopaka"
+                },
+                {
+                    "day": 8,
+                    "distance": "Bekopaka – Morondava (250km, 08h)",
+                    "description": "Direction vers le sud en empruntant une piste secondaire de 250 km jusqu’à Morondava. Nous passerons par la forêt de Kirindy et y faire une visite de 02 heures pour observer des plantes et animaux endémiques du pays. Ensuite, nous continuons le trajet vers Morondava afin de pouvoir contempler un magnifique couché sur l’allée de Baobab.<br>Nuitée à l’hôtel Morondava"
+                },
+                {
+                    "day": 9,
+                    "distance": "Morondava",
+                    "description": "C’est une journée pour découvrir la ville de Morondava. Nous commencerons par une belle balade en pirogue dans les mangroves. Ensuite, on vous amène faire un tour de ville sur Morondava pour mieux connaître cette ville d’une manière générale. Et puis dans l’après-midi, nous passerons un bon moment sur plage de Kimony qui se trouve au nord de Morondava.<br>Nuitée à l’hôtel Morondava"
+                },
+                {
+                    "day": 10,
+                    "distance": "Morondava – Antsirabe (530km, 08h)",
+                    "description": "Après le petit déjeuner, on reprend la route vers Antsirabe. Pas de lieu à visiter pour cette journée.<br>Nuitée à l’hôtel Antsirabe."
+                },
+                {
+                    "day": 11,
+                    "distance": "Antsirabe – Antananarivo (180km, 04h)",
+                    "description": "Dans la matinée, nous ferons une excursion vers le mystérieux lac Tritriva et rentrer à Antananarivo après le déjeuner."
+                }
+            ]
+        }
+    ],
+    "voyage": [
+        {
+            "title": "Andasibe",
+            "description": "Andasibe se trouve à 140 km à l’est d’Antananarivo, sur la rn2. Le parc est mondialement reconnue grâce à la présence de l’Indri indri qui est la plus grande espèce de lémurien à Madagascar. À part des lémuriens, d’autres animaux comme des caméléons, des serpents, des oiseaux, des amphibiens et des insectes sont également trouvés dans ce site.",
+            "duration": "02 jours (nombre de jours personnalisable)",
+            "price": "À partir de 195 euro/personne",
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "Antananarivo – Andasibe (140km, 03h30)",
+                    "description": "En route pour Andasibe après le petit déjeuner. Nous ferons un arrêt à réserve de Periryas à Marovezo pour voir quelques animaux endémiques de Madagascar tels que boas, caméléons, crocodiles, lémuriens (Sifaka et fulvus). Déjeuner à Andasibe et visite de la réserve privée de Vakona dans l’après-midi. Nuitée à l’hôtel Andasibe."
+                },
+                {
+                    "day": 2,
+                    "distance": "Andasibe – Antananarivo (140km, 03h30)"
+                    "description": "Après le petit déjeuner, c’est parti pour l’aventure dans la forêt d’Anlamazaotra Andasibe. C’est une forêt primaire de 08km² qui reste encore intacte. Nous ferons un circuit de 02 à 03 heures pendant lesquelles vous serez épatés par les spectacles que les lémuriens Indri indri vous offriront. Après la visite du parc, prenons un déjeuner dans un restaurant à proximité et ensuite, rentrer à Antananarivo."
+                }
+            ]
+            "pricing": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "290 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "260 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "220 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "195 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée dans les sites mentionnés dans le programme",
+                "Guide accompagnateur",
+                "Guide local",
+                "Hébergement en pension complète"
+            ],
+            "exclude": [
+                "Bouteille d’eau et boissons",
+                "Les activités non mentionnées dans le programme"
+            ]
+        },
+        {
+            "title": "Vohimana",
+            "description": "Vohimana se trouve à 148 km d’Antananarivo sur la rn2. C’est un endroit magnifique, calme et reposant, où les chants des oiseaux et les sons des rivières émerveilleront vos oreilles durant votre séjour. Vohimana n’est pas accessible en voiture, il faut marcher à pied environ 1,5 km pour rejoindre le relais de naturaliste qui est le seul établissement hôtelier de Vohimana. Pour les aventuriers, plusieurs circuits dans la forêt sont faisables à Vohimana. Des lémuriens, des reptiles, des amphibiens ou encore des insectes y seront au rendez-vous. Sans oublier les jolies cascades et piscines naturelles qui se trouvent juste à côté du relais.",
+            "duration": "02 jours (nombre de jours personnalisable)",
+            "price": "À partir de 195 euro/personne",
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "Antananarivo – Vohimana (148km, 03h30)",
+                    "description": "Départ pour Vohimana après le petit déjeuner. Arrivée à Vohimana vers 12h, installation dans les bungalows et déjeuner sur place. A partir de 14h30, nous ferons un petit circuit sentier botanique qui passe par le plus haut pont ferroviaire de Madagascar, le rocher sacré, deux anciens tunnels, deux cascades et une piscine naturelle.<br>Nuitée au relais de Vohimana."
+                },
+                {
+                    "day": 2,
+                    "distance": "Vohimana – Antananarivo (148km, 03h30)"
+                    "description": "C’est parti pour l’aventure après le petit déjeuner. Dans la matinée nous faisons une bonne balade dans la forêt, où nous passeront 04heures de temps, soit 08km de marche. De la forêt tertiaire à la forêt primaire, vous ne serez sûrement pas déçu de la biodiversité qui s’y trouve. Des animaux sauvages et des végétations endémiques de l’île vous raviront les yeux durant le parcours. Nous rentrons à Antananarivo après le déjeuner."
+                }
+            ]
+            "pricing": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "260 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "230 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "215 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "195 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée à Vohimana",
+                "Guide accompagnateur",
+                "Guide local",
+                "Hébergement en pension complète"
+            ],
+            "exclude": [
+                "Bouteille d’eau et boissons",
+                "Les activités non mentionnées dans le programme"
+            ]
+        },
+        {
+            "title": "Antsirabe",
+            "description": "Antsirabe se trouve à 180km au sud d’Antananarivo, sur la rn7. C’est la troisième plus grande ville de Madagascar après Antananarivo et Toamasina. Antsirabe est une ville touristique, calme et propre; réputé par ses sources d’eau thermale et le fameux lac Tritriva.",
+            "duration": "02 jours (nombre de jours personnalisable)",
+            "price": "À partir de 200 euro/personne",
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "Antananarivo - Antsirabe (180km,04h)",
+                    "description": "En route pour Antsirabe après le petit déjeuner. Un petit arrêt à Ambatolampy pour visiter la fonderie d’aluminium qui consiste à fabriquer les marmites utilisées dans tout Madagascar. Déjeuner à Antsirabe et nous ferons une excursion au lac Tritriva et Andraikiba dans l’après-midi.<br>Nuitée à l’hôtel Antsirabe."
+                },
+                {
+                    "day": 2,
+                    "distance": "Antsirabe – Sahamadio - Antananarivo (210km, 04h30)"
+                    "description": "Après le petit déjeuner, nous partons à Sahamadio qui se trouve à 30 km au sud d’Antsirabe. Nous y ferons une bonne randonnée de 08 km, traversant des villages, des rizières, des champs de cultures et une forêt de Tapia. A la fin du parcours, nous tomberont sur un magnifique cours d’eau totalement propre où vous pourrez faire une baignade pour se rafraichir. On y trouve deux cascades et trois piscines naturelles. Déjeuner sandwich sur place et nous rentrons à Antananarivo après la randonnée."
+                }
+            ]
+            "pricing": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "280 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "250 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "230 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "200 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée dans les sites mentionnés dans le programme",
+                "Guide accompagnateur",
+                "Guide local",
+                "Hébergement en pension complète"
+            ],
+            "exclude": [
+                "Bouteille d’eau et boissons",
+                "Dépenses personnelles"
+            ]
         }
     ]
 }

@@ -331,7 +331,31 @@
 
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
+  <script>
+    var index = new URLSearchParams(window.location.search).get('index');
+    const { createApp } = Vue;
 
+    createApp({
+
+      data() {
+        return {
+          data: null
+        }
+      },
+
+      created() {
+        this.getData();
+      },
+
+      methods: {
+        async getData () {
+          const res = await fetch('data.json');
+          const data = await res.json();
+          this.data = data.circuit[index || 0];
+        }
+      }
+    }).mount('#main')
+  </script>
 </body>
 
 </html>
