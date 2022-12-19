@@ -84,10 +84,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Excursion</h2>
+          <h2><strong>{{ data ? data.title : '' }}</strong></h2>
           <ol>
             <li><a href="index.html">Agence</a></li>
-            <li>Excursion</li>
+            <li>{{ data ? data.title : '' }}</li>
           </ol>
         </div>
 
@@ -97,208 +97,61 @@
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
       <div class="container">
-
         <!-- General information about the travel -->
-        <div class="title">
-          <h2>Circuit sud de Madagascar – Rn7</h2>
-        </div>
         <div class="general row gy-4 p-2">
           <div class="col-md-6 col-sm-12">
             <img class="w-100 shadow rounded" src="../assets/img/portfolio/bemaraha/image-1.jpg" alt="">
           </div>
           <div class="col-md-6 col-sm-12">
-            <p>
-              La Rn7 est une route nationale de 971 km, qui relie Antananarivo et Tuléar. Ce circuit vous
-              amène à la découverte des différentes cultures malagasy, des parcs nationaux comme
-              Ranofana et Isalo, des réserves villageoises, de la plage et surtout, une rencontre avec la
-              population locale.
-            </p>
+            <p>{{ data ? data.description : '' }}</p>
             <div class="portfolio-info">
               <ul>
-                <li><strong>Durée :</strong> 11 jours et 10 nuits</li>
-                <li><strong>Tarif :</strong> À partir de <strong> 1 140 euro/personne</strong></li>
+                <li><strong>Durée :</strong> {{ data ? data.duration : '' }}</li>
+                <li><strong>Difficulté :</strong> {{ data ? data.duration : '' }}</li>
+                <li><strong>Difficulté :</strong> {{ data ? data.difficulty : '' }}</li>
+                <li><strong>Distance :</strong> {{ data ? data.distance : '' }}</li>
               </ul>
             </div>
           </div>
         </div>
-
-        <!-- Programs of travel -->
-        <div class="program mt-4 px-3">
-          <h4 class="text-center py-2">Détails et programme de voyage</h4>
-          <div class="row shadow">
-            <div class="col-md-6 col-sm-12 ps-0">
-              <img class="w-100 h-100 rounded-start" src="../assets/img/portfolio/bemaraha/image-2.jpg" alt="">
+        <div class="card-group mt-5 mb-3 text-center">
+          <div class="card mb-4 shadow border-0">
+            <div class="card-header border-0">
+              <h4 class="my-0 font-weight-normal">Tarifs</h4>
             </div>
-            <div class="col-md-6 col-sm-12">
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item"><strong>Jour 1 : </strong>Arrivée à Antananarivo et transfert vers l’hôtel.
-                </li>
-                <li class="list-group-item"><strong>Jour 2 : </strong>Antananarivo – Antsirabe (180km, 04h)</li>
-                <li class="list-group-item"><strong>Jour 3 : </strong>Antsirabe – Ranomafana (227 km, 04h30)</li>
-                <li class="list-group-item"><strong>Jour 4 : </strong>Ranomafana – Fianarantsoa (62km, 01h)</li>
-                <li class="list-group-item"><strong>Jour 5 : </strong>Fianarantsoa – Ranohira (280km, 5h30)</li>
-                <li class="list-group-item"><strong>Jour 6 : </strong>Isalo</li>
-                <li class="list-group-item"><strong>Jour 7 : </strong>Ranohira – Tuléar – Ifaty (265km, 05h)</li>
-                <li class="list-group-item"><strong>Jour 8 : </strong>Ifaty</li>
-                <li class="list-group-item"><strong>Jour 9 : </strong>Ifaty – Sarodrano - Saint Augustin - Ifaty</li>
-                <li class="list-group-item"><strong>Jour 10 : </strong>Ifaty</li>
-                <li class="list-group-item"><strong>Jour 11 : </strong>Ifaty – Tuléar – Antananarivo</li>
-                <li class="list-group-item"><strong>FIN DE CIRCUIT</strong></li>
-                <li class="list-group-item">
-                  <p><small class="text-muted">
-                      <strong>NB :</strong> Le nombre de jour est extensible selon votre disponibilité et budget. On
-                      peut
-                      également
-                      continuer ce circuit vers Ankasy, Salary et Ambatomilo.</small>
-                  </p>
+            <div class="card-body">
+              <ul class="mt-3 mb-4 text-start" v-if='data'>
+                <li v-for="price in data.prices">
+                  <h6 class="card-title">{{ price.person_nbr }} <small class="text-muted">: {{ price.price }}</small></h6>
                 </li>
               </ul>
             </div>
           </div>
-
-          <!-- Details of program -->
-          <div class="program-detail pt-5 mt-3">
-            <h5>
-              <strong> J ~ 1 :</strong>
-              <span> Arrivée à Antananarivo et transfert vers l’hôtel. </span>
-              <i class="bi bi-airplane-engines"> </i>
-            </h5>
-            <p class="text-muted">
-              <span>Nuitée à l’hôtel Antananarivo.</span>
-            </p>
-
-            <h5>
-              <strong>J ~ 2 :</strong>
-              <span> Antananarivo – Antsirabe (180km, 04h) </span>
-              <i class="bi bi-car-front"></i>
-            </h5>
-            <p class="text-muted"><span>En route pour Antsirabe après le petit déjeuner. Nous faisons un arrêt à
-                Ambatolampy pour
-                visiter la fonderie d’aluminium qui construit des marmites. Excursion vers le lac Tritriva et
-                Andraikiba dans l’après-midi à Antsirabe.
-                Nuitée à l’hôtel Antsirabe.</span></p>
-
-            <h5>
-              <strong>J ~ 3 :</strong>
-              <span> Antsirabe – Ranomafana (227 km, 04h30)</span>
-              <i class="bi bi-car-front"></i>
-            </h5>
-            <p class="text-muted">
-              <span>Nous continuons le périple vers Ranomafana après le petit déjeuner. Pendant
-                notre passage à
-                Ambositra, nous y feront un petit arrêt pour voir les artisanats locaux.
-                Nuitée à l’hôtel de Ranomafana.
-              </span>
-            </p>
-
-            <h5>
-              <strong>J ~ 4 :</strong>
-              <span> Ranomafana – Fianarantsoa (62km, 01h)</span>
-              <i class="bx bx-walk"></i>
-            </h5>
-            <p class="text-muted">
-              <span>Visite du parc national de Ranofamana dans la matinée. C’est une forêt humide de
-                41 600 ha,
-                qui abrite plusieurs espèces végétales et animales comme des lémuriens bambous, des
-                caméléons, des papillons etc. Après la visite du parc, déjeuner dans un restaurant et puis, en
-                route vers Fianarantsoa.
-                Nuitée à l’hôtel de Fianarantsoa.</span>
-            </p>
-
-            <h5>
-              <strong>J ~ 5 :</strong>
-              <span>Fianarantsoa – Ranohira (280km, 5h30)</span>
-              <i class="bi bi-car-front"></i>
-            </h5>
-            <p class="text-muted">
-              <span>Direction toujours vers le sud après le petit déjeuner. À 52 km de Fianarantsoa,
-                nous ferons une pause pour pouvoir visiter la réserve communale Anja. C’est une zone de 34 ha où on
-                peut trouver plus de milles individus de lémurs cattas, des oiseaux et des grottes ancestrales.
-                Déjeuner pique-nique à l’entrée du parc et ensuite, continuer la route vers Ranohira.
-                Nuitée à l’hôtel de Ranohira.</span>
-            </p>
-
-            <h5>
-              <strong>J ~ 6 :</strong>
-              <span>Isalo</span>
-              <i class="bx bx-walk"></i>
-            </h5>
-            <p class="text-muted">
-              <span>Visite d’une journée dans le parc national de l’Isalo. La balade dans le parc
-                vous fera découvrir environ 07 espèces de lémuriens, des oiseaux, des cascades et des piscines
-                naturelles. Déjeuner pique-nique dans le parc. On termine la journée en contemplant le couché
-                de soleil à travers de la fenêtre d’Isalo (un rocher en forme d’une fenêtre).
-
-                Nuitée à l’hôtel de Ranohira.</span>
-            </p>
-
-            <h5>
-              <strong>J ~ 7 :</strong>
-              <span>Ranohira – Tuléar – Ifaty (265km, 05h)</span>
-              <i class="bi bi-car-front"></i>
-            </h5>
-            <p class="text-muted"><span>Trajet en voiture de Ranohira à Ifaty dans la matinée. Farniente sur la plage
-                d’Ifaty dans l’après-midi. Feu de camp et animations au bord de la mer dans la soirée.
-                Nuitée à l’hôtel d’Ifaty.</span>
-            </p>
-
-            <h5>
-              <strong>J ~ 8 :</strong>
-              <span>Ifaty</span>
-              <i class="bx bx-walk"></i>
-            </h5>
-            <p class="text-muted"><span>Excursion vers la forêt de baobab à Mangily. C’est une balade en charrette qui
-                vous permet de voir les baobabs de Madagascar et d’autres plantes du sud. Après cela, on vous emmène
-                faire un tour dans le village de Mangily pour une rencontre avec la population locale.
-                Nuitée à l’hôtel Ifaty.</span></p>
-
-            <h5>
-              <strong>J ~ 9 :</strong>
-              <span>Ifaty – Sarodrano - Saint Augustin - Ifaty</span>
-              <i class="bx bx-walk"></i>
-            </h5>
-            <p class="text-muted"><span>Excursion vers la grotte de Sarodrano qui se trouve à 40 km d’Ifaty. C’est une
-                grotte sacrée
-                avec une piscine naturelle d’eau douce dotée d’une couleur bleue turquoise. Une baignade est
-                faisable dans la piscine. Déjeuner pique-nique sur place et par la suite, on continue la balade
-                vers le village de Saint Augustin et puis, revenir à Ifaty.
-                Nuitée à l’hôtel Ifaty.</span></p>
-
-            <h5>
-              <strong>J ~ 10 :</strong>
-              <span>: Ifaty</span>
-              <i class="bx bxs-hotel"></i>
-            </h5>
-            <p class="text-muted"><span>Journée libre à Ifaty afin de pouvoir se reposer après les différentes
-                excursions.
-                Nuitée à l’hôtel Ifaty.</span></p>
-
-            <h5>
-              <strong>J ~ 11 :</strong>
-              <span>: Ifaty – Tuléar – Antananarivo</span>
-              <i class="bi bi-airplane-engines"> </i>
-            </h5>
-            <p class="text-muted"><span>Envol pour Antananarivo depuis l’aéroport de Tuléar et transfert vers l’hôtel.
-                Nuitée à l’hôtel Antananarivo.</span></p>
-
-
-            <h5 class="text-center"><strong>~ Fin du circuit ~</strong></h5>
-
+          <div class="card mb-4 shadow border-0">
+            <div class="card-header border-0">
+              <h4 class="my-0 font-weight-normal">Inclus dans le tarif</h4>
+            </div>
+            <div class="card-body">
+              <ul class="mt-3 mb-4 text-start" v-if='data'>
+                <li v-for="inclusion in data.include">
+                  <h6 class="card-title"><small class="text-muted">{{ inclusion }}</small></h6>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="card mb-4 shadow border-0">
+            <div class="card-header border-0">
+              <h4 class="my-0 font-weight-normal">Exclus du tarif</h4>
+            </div>
+            <div class="card-body">
+              <ul class="mt-3 mb-4 text-start" v-if='data'>
+                <li v-for="exclusion in data.exclude">
+                  <h6 class="card-title"><small class="text-muted">{{ exclusion }}</small></h6>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
-
-        <!-- <div class="tarif">
-          <table class="border">
-            <thead class="border">
-              <th class="border">TARIFS</th>
-              <th class="border">Inclus dans le tarif</th>
-              <th class="border">Exclus dans le tarif</th>
-            </thead>
-            <tbody>
-
-            </tbody>
-          </table>
-        </div> -->
       </div>
     </section><!-- End Portfolio Details Section -->
 
@@ -323,6 +176,7 @@
       class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
@@ -330,7 +184,31 @@
 
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
+  <script>
+    var index = new URLSearchParams(window.location.search).get('index');
+    const { createApp } = Vue;
 
+    createApp({
+
+      data() {
+        return {
+          data: null
+        }
+      },
+
+      created() {
+        this.getData();
+      },
+
+      methods: {
+        async getData () {
+          const res = await fetch('data.json');
+          const data = await res.json();
+          this.data = data.excursion[index || 0];
+        }
+      }
+    }).mount('#main')
+  </script>
 </body>
 
 </html>

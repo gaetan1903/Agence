@@ -1,0 +1,366 @@
+{
+    "excursion" : [
+        {
+            "title": "Randonnée à Andranotoraha",
+            "description": "Le lac d’Andranotoraha se trouve à environ 110 km d’Antananarivo sur la Rn1. C’est un parcours d’environ 10 km qui vous fera plonger dans une multitude de variété de paysages et des histoires mystérieuses. Après la gravure de la montagne d’Antanetibe (environ 1700m d’altitude), vous serez récompensés par une magnifique vue panoramique à perte de vue sur toute la partie Est. Puis vous descendez vers le lac cratère d’Andranotoraha. De loin, vous allez apercevoir sa couleur bleu turquoise et de près, vous serez surpris par des flores qui poussent dans le lac. Une baignade et une partie de pêche sont faisables sur place avant de continuer le parcours vers Anlavory qui est le point d’arrivée de la randonnée.",
+            "duration": "01 jour",
+            "difficulty": "06/10",
+            "distance": "10 km",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "97 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "77 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "62 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "48 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Guide accompagnateur",
+                "Un sandwich par personne",
+                "Bouteille d’eau 1L par personne"
+            ],
+            "exclude": [
+                "Boissons",
+                "Dépenses personnelles"               
+            ]
+        },
+        {
+            "title": "Randonnée à Anjiro",
+            "description": "Anjiro se trouve à 78 km d’Antananarivo sur la rn2.C’est un village pittoresque qui a un énorme attrait touristique. Les villageois y sont très accueillants et souriants. À 08km d’Anjiro, on trouve la fameuse chute d’Andriamamovoka avec une hauteur d’environ 100m. Très souvent, les locaux font des rites en demandant des bénédictions aux ancêtres à travers la chute d’Andriamamovoka. Une randonnée de 16 km au total vous suffira pour découvrir ce petit paradis en passant par des voies ferrées, des rizières, des petits villages et une forêt semi-primaire.",
+            "duration": "01 jour",
+            "difficulty": "06/10",
+            "distance": "16 km",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "97 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "77 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "62 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "47 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée à Anjiro",
+                "Guide accompagnateur",
+                "Bouteille d’eau 1L par personne",
+                "Un sandwich par personne"
+            ],
+            "exclude": [
+                "Boissons",
+                "Dépenses personnelles"                            
+            ]
+        },
+        {
+            "title": "Excursion au Lemur’s Park",
+            "description": "Lemur’s park est le site le plus près d’Antananarivo pour rencontrer des lémuriens en liberté. Cet endroit se trouve seulement à 22 km de la capitale, sur la rn1. <br>Ce site privé préserve des animaux sans les mettre dans des cages. Entre autre on y trouve des caméléons, des tortues, mais les plus remarquables sont des lémuriens qui sont des animaux endémiques et emblématiques de Madagascar. Vous allez y trouver 07 espèces de lémuriens.",
+            "duration": "01 jour",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "95 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "75 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "60 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "45 €/personne"
+                }
+            ],
+            "include": [
+               "Transport privé avec chauffeur et carburants",
+               "Ticket d’entrée au Lemur’s park",
+               "Guide accompagnateur",
+               "Guide local",
+               "Déjeuner"
+            ],
+            "exclude": [
+                "Bouteille d’eau et boissons",
+                "Dépenses personnelles"
+            ]
+        },
+        {
+            "title": "Tour de ville Antananarivo",
+            "description": "Une journée de tour de ville vous permet de mieux connaître la ville d’Antananarivo sur le plan touristique, social, économique et démographique. On commence le tour par la colline royale d’Ambohimanga qui se trouve à la périphérie de la capitale. Ambohimanga rova est un lieu sacré et berceau de la culture Merina et ses histoires. Vous allez y trouver des tombeaux royaux, des lieux de cultes, les demeures royales etc. Après la visite d’Ambohimanga rova, nous revenons au centre-ville pour prendre un déjeuner dans un restaurant typique malagasy.<br>Après le déjeuner, on vous amène faire un tour devant le palais présidentiel, ensuite descendre au marché d’Anlakely jusqu’à l’ancienne gare ferroviaire de Soarano. Pour finir le tour, nous nous dirigeons vers la haute ville où se trouve le plus grand palais royal de Madagascar qui se nomme Manjakamiadana. Une fois sur le sommet de la colline royale de Manjakamiadana, vous serez récompensés par une magnifique vue panoramique sur toute la partie ouest de la ville d’Antananarivo.",
+            "duration": "01 jour",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "95 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "80 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "70 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "60 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée Ambohimanga rova",
+                "Guide accompagnateur",
+                "Guide local",
+                "Déjeuner"
+            ],
+            "exclude": [
+                "Bouteille d’eau et boissons",
+                "Dépenses personnelles"
+            ]
+        },
+        {
+            "title": "Randonnée Ankafobe",
+            "description": "Ankafobe se trouve à 132 km d’Antananarivo sur la rn4. Il paraît être loin mais une seule journée suffit pour découvrir ce bel endroit. La réserve d’Ankafobe se divise en deux partie. L’une est constitué par une forêt semi-primaire de 33 hectares où le taux d’endémicité des plantes est élevé à 98%. L’autre partie est caractérisée par une rivière avec deux jolies cascade, ainsi que quelques piscines naturelles où on peut se rafraichir. Une randonnée de 07 km au total est requise pour pouvoir découvrir l’ensemble de la réserve d’Ankafobe.",
+            "duration": "01 jour",
+            "difficulty": "05/10",
+            "distance": "07 km",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "97 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "77 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "67 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "47 €/personne"
+                }
+            ],
+            "include": [
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée Ankafobe",
+                "Guide accompagnateur",
+                "Guide local",
+                "Un sandwich par personne",
+                "Une bouteille d’eau 1L par personne"
+            ],
+            "exclude": [
+                "Boissons",
+                "Dépenses personnelles"
+            ]
+        }
+    ],
+    "circuit" : [
+        {
+            "title": "Circuit sud de Madagascar – Rn7",
+            "description": "La Rn7 est une route nationale de 971 km, qui relie Antananarivo et Tuléar. Ce circuit vous amène à la découverte des différentes cultures malagasy, des parcs nationaux comme Ranofana et Isalo, des réserves villageoises, de la plage et surtout, une rencontre avec la population locale.",
+            "duration": "11 jours et 10 nuits",
+            "price": "À partir de 1 140 €/personne",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "1 485 €/personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "1 360 €/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "1 250 €/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "1 140 €/personne"
+                }
+            ],
+            "include": [
+                "Location de voiture avec chauffeur et carburants", 
+                "Guide accompagnateur",
+                "Hébergement durant le circuit (hôtels moyenne gamme)",
+                "Toutes les activités mentionnées dans le programme",
+                "Tickets d’entrée dans les sites à visiter dans le programme",
+                "Guides locaux",
+                "Les déjeuner pique-nique durant les excursions à Ifaty",
+                "Vol domestique entre Tuléar et Antananarivo"
+            ],
+            "exclude": [
+                "Vols internationaux",
+                "Bouteilles d’eau et boissons",
+                "Les repas durant le circuit",
+                "Les activités non mentionnées dans le programme"
+            ],
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "Arrivée à Antananarivo et transfert vers l’hôtel.",
+                    "description": "Nuitée à l’hôtel Antananarivo."
+                },
+                {
+                    "day": 2,
+                    "distance": "Antananarivo – Antsirabe (180km, 04h).",
+                    "description": "En route pour Antsirabe après le petit déjeuner. Nous faisons un arrêt à Ambatolampy pour visiter la fonderie d’aluminium qui construit des marmites. Excursion vers le lac Tritriva et Andraikiba dans l’après-midi à Antsirabe. Nuitée à l’hôtel Antsirabe."
+                },
+                {
+                    "day": 3,
+                    "distance": "Antsirabe – Ranomafana (227 km, 04h30) ",
+                    "description": "Nous continuons le périple vers Ranomafana après le petit déjeuner. Pendant notre passage à Ambositra, nous y feront un petit arrêt pour voir les artisanats locaux. Nuitée à l’hôtel de Ranomafana."
+                } ,
+                {
+                    "day": 4,
+                    "distance": "Ranomafana – Fianarantsoa (62km, 01h)",
+                    "description": "Visite du parc national de Ranofamana dans la matinée. C’est une forêt humide de 41 600 ha, qui abrite plusieurs espèces végétales et animales comme des lémuriens bambous, des caméléons, des papillons etc. Après la visite du parc, déjeuner dans un restaurant et puis, en route vers Fianarantsoa. Nuitée à l’hôtel de Fianarantsoa."
+                },
+                {
+                    "day": 5,
+                    "distance": "Fianarantsoa – Ranohira (280km, 5h30)",
+                    "description": "Direction toujours vers le sud après le petit déjeuner. À 52 km de Fianarantsoa, nous ferons une pause pour pouvoir visiter la réserve communale Anja. C’est une zone de 34 ha où on peut trouver plus de milles individus de lémurs cattas, des oiseaux et des grottes ancestrales. Déjeuner pique-nique à l’entrée du parc et ensuite, continuer la route vers Ranohira. Nuitée à l’hôtel de Ranohira."
+                },
+                {
+                    "day": 6,
+                    "distance": "Isalo",
+                    "description": "Visite d’une journée dans le parc national de l’Isalo. La balade dans le parc vous fera découvrir environ 07 espèces de lémuriens, des oiseaux, des cascades et des piscines naturelles. Déjeuner pique-nique dans le parc. On termine la journée en contemplant le couché de soleil à travers de la fenêtre d’Isalo (un rocher en forme d’une fenêtre). Nuitée à l’hôtel de Ranohira."
+                },
+                {
+                    "day": 7,
+                    "distance": "Ranohira – Tuléar – Ifaty (265km, 05h)",
+                    "description": "Trajet en voiture de Ranohira à Ifaty dans la matinée. Farniente sur la plage d’Ifaty dans l’après-midi. Feu de camp et animations au bord de la mer dans la soirée. Nuitée à l’hôtel d’Ifaty."
+                },
+                {
+                    "day": 8,
+                    "distance": "Ifaty",
+                    "description": "Excursion vers la forêt de baobab à Mangily. C’est une balade en charrette qui vous permet de voir les baobabs de Madagascar et d’autres plantes du sud. Après cela, on vous emmène faire un tour dans le village de Mangily pour une rencontre avec la population locale. Nuitée à l’hôtel Ifaty."
+                },
+                {
+                    "day": 9,
+                    "distance": "Ifaty – Sarodrano - Saint Augustin - Ifaty",
+                    "description": "Excursion vers la grotte de Sarodrano qui se trouve à 40 km d’Ifaty. C’est une grotte sacrée avec une piscine naturelle d’eau douce dotée d’une couleur bleue turquoise. Une baignade est faisable dans la piscine. Déjeuner pique-nique sur place et par la suite, on continue la balade vers le village de Saint Augustin et puis, revenir à Ifaty. Nuitée à l’hôtel Ifaty."
+                },
+                {
+                    "day": 10,
+                    "distance": "Ifaty",
+                    "description": "Journée libre à Ifaty afin de pouvoir se reposer après les différentes excursions. Nuitée à l’hôtel Ifaty."
+                },
+                {
+                    "day": 11,
+                    "distance": "Ifaty – Tuléar – Antananariv",
+                    "description": "Envol pour Antananarivo depuis l’aéroport de Tuléar et transfert vers l’hôtel. Nuitée à l’hôtel Antananarivo."
+                } 
+            ]
+        },
+        {
+            "title": "Circuit Tsingy de Bemaraha et allée de Baobab",
+            "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
+            "duration": "11 jours et 10 nuits",
+            "price": "À partir de 995€s/personne",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "1 690 €s /personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "1 195 €s/personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "1 090 €s/personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "995 €s/personne"
+                }
+            ],
+            "include": [
+                "Location de voiture avec chauffeur et carburants",
+                "Descente en pirogue sur le fleuve Tsiribihina",
+                "Pension complète durant la descente Tsiribihina",
+                "Guide accompagnateur",
+                "Hébergement durant le circuit (hôtels moyenne gamme)",
+                "Toutes les activités mentionnées dans le programme",
+                "Tickets d’entrée dans les sites à visiter dans le programme",
+                "Guides locaux"
+            ],
+            "exclude": [
+                "Vols internationaux",
+                "Bouteilles d’eau et boissons",
+                "Les repas durant le circuit",
+                "Les activités non mentionnées dans le programme"            
+            ],
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "AArrivée à Antananarivo et transfert à l’hôtel.",
+                    "description": "Nuitée à l’hôtel Antananarivo."
+                },
+                {
+                    "day": 2,
+                    "distance": "Antananarivo – Miandrivazo (660km, 11h)",
+                    "description": "En route pour l’aventure après le petit déjeuner. Une petite pause à Ambatolampy pour visiter la fonderie en aluminium qui fabrique des marmites majoritairement utilisées sur toute l’île. Déjeuner à Antsirabe et un petit tour de ville en pousse pousse avant de continuer le voyage vers Miandrivazo."
+                },
+                {
+                    "day": [3, 4, 5],
+                    "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
+                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour5"
+                } ,
+                {
+                    "day": 6,
+                    "distance": "Belo sur Tsiribihina – Bekopaka (150km, 06h)",
+                    "description": "Après le trajet en pirogue, nous continuons le trajet en 4x4, suivant une piste secondaire de 150 km pour rejoindre le village de Bekopaka qui est la porte d’entrée dans le fameux parc national de Tsingy de Bemaraha.<br>Nuitée à l’hôtel à Bekopaka."
+                },
+                {
+                    "day": 7,
+                    "distance": "Bekopaka – Tsingy de Bemaraha – Bekopaka",
+                    "description": "Le moment est venu pour explorer le spectaculaire Tsingy de Bemaraha. C’est un site protégé de 152 000ha, généralement composé par des roches des calcaires pointus de couleur grises. Ce parc est également riche en matières de faunes et flores comme des lémuriens, oiseaux aquatique et terrestres, amphibiens, reptiles, chauves-souris etc.<br>Nuitée à l’hôtel Bekopaka"
+                },
+                {
+                    "day": 8,
+                    "distance": "Bekopaka – Morondava (250km, 08h)",
+                    "description": "Direction vers le sud en empruntant une piste secondaire de 250 km jusqu’à Morondava. Nous passerons par la forêt de Kirindy et y faire une visite de 02 heures pour observer des plantes et animaux endémiques du pays. Ensuite, nous continuons le trajet vers Morondava afin de pouvoir contempler un magnifique couché sur l’allée de Baobab.<br>Nuitée à l’hôtel Morondava"
+                },
+                {
+                    "day": 9,
+                    "distance": "Morondava",
+                    "description": "C’est une journée pour découvrir la ville de Morondava. Nous commencerons par une belle balade en pirogue dans les mangroves. Ensuite, on vous amène faire un tour de ville sur Morondava pour mieux connaître cette ville d’une manière générale. Et puis dans l’après-midi, nous passerons un bon moment sur plage de Kimony qui se trouve au nord de Morondava.<br>Nuitée à l’hôtel Morondava"
+                },
+                {
+                    "day": 10,
+                    "distance": "Morondava – Antsirabe (530km, 08h)",
+                    "description": "Après le petit déjeuner, on reprend la route vers Antsirabe. Pas de lieu à visiter pour cette journée.<br>Nuitée à l’hôtel Antsirabe."
+                },
+                {
+                    "day": 11,
+                    "distance": "Antsirabe – Antananarivo (180km, 04h)",
+                    "description": "Dans la matinée, nous ferons une excursion vers le mystérieux lac Tritriva et rentrer à Antananarivo après le déjeuner."
+                }
+            ]
+        }
+    ]
+}
