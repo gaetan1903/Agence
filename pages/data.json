@@ -489,19 +489,19 @@
             ],
             "include": [
                 "Location de voiture avec chauffeur et carburants",
-                "Descente en pirogue sur le fleuve Tsiribihina",
-                "Pension complète durant la descente Tsiribihina",
                 "Guide accompagnateur",
                 "Hébergement durant le circuit (hôtels moyenne gamme)",
+                "Pensions complètes dans le parc de Marojejy",
                 "Toutes les activités mentionnées dans le programme",
                 "Tickets d’entrée dans les sites à visiter dans le programme",
-                "Guides locaux"
+                "Guides locaux",
+                "Vols domestiques Tana – Sambava - Tana"
             ],
             "exclude": [
                 "Vols internationaux",
                 "Bouteilles d’eau et boissons",
-                "Les repas durant le circuit",
-                "Les activités non mentionnées dans le programme"            
+                "Les repas hors du parc de Marojejy",
+                "Les activités non mentionnées dans le programme"
             ],
             "programs": [
                 {
@@ -511,43 +511,33 @@
                 },
                 {
                     "day": 2,
-                    "distance": "Antananarivo – Miandrivazo (660km, 11h)",
-                    "description": "En route pour l’aventure après le petit déjeuner. Une petite pause à Ambatolampy pour visiter la fonderie en aluminium qui fabrique des marmites majoritairement utilisées sur toute l’île. Déjeuner à Antsirabe et un petit tour de ville en pousse pousse avant de continuer le voyage vers Miandrivazo."
+                    "distance": "Envol pour Sambava et transfert vers Marojejy.",
+                    "description": "Nuitée au premier campement Marojejy."
                 },
                 {
-                    "day": [3, 4, 5],
-                    "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
-                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour5"
+                    "day": "3 au jour 6",
+                    "distance": "",
+                    "description": "Nous prendrons 04 jours et 03 nuits pour explorer l’ensemble du parc depuis l’entrée jusqu’au sommet qui cumule à 2 132m d’altitude. Les nuitées se feront dans les petits bungalow des trois campements du site. Cette visite de parc national Marojejy vous fera vivre une expérience inoubliable dans une nature unique dans son  genre."
                 } ,
                 {
-                    "day": 6,
-                    "distance": "Belo sur Tsiribihina – Bekopaka (150km, 06h)",
-                    "description": "Après le trajet en pirogue, nous continuons le trajet en 4x4, suivant une piste secondaire de 150 km pour rejoindre le village de Bekopaka qui est la porte d’entrée dans le fameux parc national de Tsingy de Bemaraha.<br>Nuitée à l’hôtel à Bekopaka."
-                },
-                {
                     "day": 7,
-                    "distance": "Bekopaka – Tsingy de Bemaraha – Bekopaka",
-                    "description": "Le moment est venu pour explorer le spectaculaire Tsingy de Bemaraha. C’est un site protégé de 152 000ha, généralement composé par des roches des calcaires pointus de couleur grises. Ce parc est également riche en matières de faunes et flores comme des lémuriens, oiseaux aquatique et terrestres, amphibiens, reptiles, chauves-souris etc.<br>Nuitée à l’hôtel Bekopaka"
+                    "distance": "Marojejy – Sambava (60km, 01h)",
+                    "description": "Nous revenons à la ville de Sambava après les 04 jours passé dans le parc national de Marojejy.<br>Nuitée à l’hôtel de Sambava."
                 },
                 {
                     "day": 8,
-                    "distance": "Bekopaka – Morondava (250km, 08h)",
-                    "description": "Direction vers le sud en empruntant une piste secondaire de 250 km jusqu’à Morondava. Nous passerons par la forêt de Kirindy et y faire une visite de 02 heures pour observer des plantes et animaux endémiques du pays. Ensuite, nous continuons le trajet vers Morondava afin de pouvoir contempler un magnifique couché sur l’allée de Baobab.<br>Nuitée à l’hôtel Morondava"
+                    "distance": "Sambava – Antalaha (80km, 1h30)",
+                    "description": "La capitale mondiale de la vanille se trouve seulement à 80km au sud de Sambava. Nous consacrons cette journée pour la découverte la ville d’Antalaha et ses entourages. Ce sera également une occasion de mieux connaître sur la culture de la vanille et son importance dans cette région.<br>Nuitée à l’hôtel d’Antalaha."
                 },
                 {
                     "day": 9,
-                    "distance": "Morondava",
-                    "description": "C’est une journée pour découvrir la ville de Morondava. Nous commencerons par une belle balade en pirogue dans les mangroves. Ensuite, on vous amène faire un tour de ville sur Morondava pour mieux connaître cette ville d’une manière générale. Et puis dans l’après-midi, nous passerons un bon moment sur plage de Kimony qui se trouve au nord de Morondava.<br>Nuitée à l’hôtel Morondava"
+                    "distance": "Antalaha – Sambava (80km, 1h30)",
+                    "description": "Nous revenons à Sambava pour préparer le vol vers Antananarivo le lendemain. <br>Nuitée à l’hôtel Sambava."
                 },
                 {
                     "day": 10,
-                    "distance": "Morondava – Antsirabe (530km, 08h)",
-                    "description": "Après le petit déjeuner, on reprend la route vers Antsirabe. Pas de lieu à visiter pour cette journée.<br>Nuitée à l’hôtel Antsirabe."
-                },
-                {
-                    "day": 11,
-                    "distance": "Antsirabe – Antananarivo (180km, 04h)",
-                    "description": "Dans la matinée, nous ferons une excursion vers le mystérieux lac Tritriva et rentrer à Antananarivo après le déjeuner."
+                    "distance": "Vol domestique de Sambava à Antananarivo et transfert vers l’hôtel.",
+                    "description": "Nuitée à l’hôtel Antananarivo."
                 }
             ]
         },
