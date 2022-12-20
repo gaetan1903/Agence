@@ -1,5 +1,5 @@
 {
-    "excursion" : [
+    "excursion": [
         {
             "title": "Randonnée à Andranotoraha",
             "description": "Le lac d’Andranotoraha se trouve à environ 110 km d’Antananarivo sur la Rn1. C’est un parcours d’environ 10 km qui vous fera plonger dans une multitude de variété de paysages et des histoires mystérieuses. Après la gravure de la montagne d’Antanetibe (environ 1700m d’altitude), vous serez récompensés par une magnifique vue panoramique à perte de vue sur toute la partie Est. Puis vous descendez vers le lac cratère d’Andranotoraha. De loin, vous allez apercevoir sa couleur bleu turquoise et de près, vous serez surpris par des flores qui poussent dans le lac. Une baignade et une partie de pêche sont faisables sur place avant de continuer le parcours vers Anlavory qui est le point d’arrivée de la randonnée.",
@@ -10,19 +10,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "97 €/personne"
+                    "price": "97 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "77 €/personne"
+                    "price": "77 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "62 €/personne"
+                    "price": "62 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "48 €/personne"
+                    "price": "48 € /personne"
                 }
             ],
             "include": [
@@ -33,7 +33,7 @@
             ],
             "exclude": [
                 "Boissons",
-                "Dépenses personnelles"               
+                "Dépenses personnelles"
             ]
         },
         {
@@ -46,19 +46,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "97 €/personne"
+                    "price": "97 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "77 €/personne"
+                    "price": "77 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "62 €/personne"
+                    "price": "62 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "47 €/personne"
+                    "price": "47 € /personne"
                 }
             ],
             "include": [
@@ -70,7 +70,7 @@
             ],
             "exclude": [
                 "Boissons",
-                "Dépenses personnelles"                            
+                "Dépenses personnelles"
             ]
         },
         {
@@ -81,27 +81,27 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "95 €/personne"
+                    "price": "95 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "75 €/personne"
+                    "price": "75 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "60 €/personne"
+                    "price": "60 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "45 €/personne"
+                    "price": "45 € /personne"
                 }
             ],
             "include": [
-               "Transport privé avec chauffeur et carburants",
-               "Ticket d’entrée au Lemur’s park",
-               "Guide accompagnateur",
-               "Guide local",
-               "Déjeuner"
+                "Transport privé avec chauffeur et carburants",
+                "Ticket d’entrée au Lemur’s park",
+                "Guide accompagnateur",
+                "Guide local",
+                "Déjeuner"
             ],
             "exclude": [
                 "Bouteille d’eau et boissons",
@@ -116,19 +116,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "95 €/personne"
+                    "price": "95 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "80 €/personne"
+                    "price": "80 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "70 €/personne"
+                    "price": "70 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "60 €/personne"
+                    "price": "60 € /personne"
                 }
             ],
             "include": [
@@ -153,19 +153,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "97 €/personne"
+                    "price": "97 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "77 €/personne"
+                    "price": "77 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "67 €/personne"
+                    "price": "67 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "47 €/personne"
+                    "price": "47 € /personne"
                 }
             ],
             "include": [
@@ -182,33 +182,33 @@
             ]
         }
     ],
-    "circuit" : [
+    "circuit": [
         {
             "title": "Circuit sud de Madagascar – Rn7",
             "description": "La Rn7 est une route nationale de 971 km, qui relie Antananarivo et Tuléar. Ce circuit vous amène à la découverte des différentes cultures malagasy, des parcs nationaux comme Ranofana et Isalo, des réserves villageoises, de la plage et surtout, une rencontre avec la population locale.",
             "duration": "11 jours et 10 nuits",
             "image_folder": "rn7",
-            "price": "À partir de 1 140 €/personne",
+            "price": "À partir de 1 140 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 485 €/personne"
+                    "price": "1 485 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 360 €/personne"
+                    "price": "1 360 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 250 €/personne"
+                    "price": "1 250 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "1 140 €/personne"
+                    "price": "1 140 € /personne"
                 }
             ],
             "include": [
-                "Location de voiture avec chauffeur et carburants", 
+                "Location de voiture avec chauffeur et carburants",
                 "Guide accompagnateur",
                 "Hébergement durant le circuit (hôtels moyenne gamme)",
                 "Toutes les activités mentionnées dans le programme",
@@ -238,7 +238,7 @@
                     "day": 3,
                     "distance": "Antsirabe – Ranomafana (227 km, 04h30) ",
                     "description": "Nous continuons le périple vers Ranomafana après le petit déjeuner. Pendant notre passage à Ambositra, nous y feront un petit arrêt pour voir les artisanats locaux. Nuitée à l’hôtel de Ranomafana."
-                } ,
+                },
                 {
                     "day": 4,
                     "distance": "Ranomafana – Fianarantsoa (62km, 01h)",
@@ -278,7 +278,7 @@
                     "day": 11,
                     "distance": "Ifaty – Tuléar – Antananariv",
                     "description": "Envol pour Antananarivo depuis l’aéroport de Tuléar et transfert vers l’hôtel. Nuitée à l’hôtel Antananarivo."
-                } 
+                }
             ]
         },
         {
@@ -286,23 +286,23 @@
             "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
             "duration": "11 jours et 10 nuits",
             "image_folder": "bemaraha",
-            "price": "À partir de 995€s/personne",
+            "price": "À partir de 995 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 690 €s /personne"
+                    "price": "1 690 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 195 €s/personne"
+                    "price": "1 195 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 090 €s/personne"
+                    "price": "1 090 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "995 €s/personne"
+                    "price": "995 € /personne"
                 }
             ],
             "include": [
@@ -319,7 +319,7 @@
                 "Vols internationaux",
                 "Bouteilles d’eau et boissons",
                 "Les repas durant le circuit",
-                "Les activités non mentionnées dans le programme"            
+                "Les activités non mentionnées dans le programme"
             ],
             "programs": [
                 {
@@ -336,7 +336,7 @@
                     "day": " 3, jour4, jour 5",
                     "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
                     "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour."
-                } ,
+                },
                 {
                     "day": 6,
                     "distance": "Belo sur Tsiribihina – Bekopaka (150km, 06h)",
@@ -374,23 +374,23 @@
             "description": "La côte Est de Madagascar est la destination parfaite pour les amoureux de la nature, des animaux sauvages et de la plage. Pendant votre passage à Andasibe et à Vohimana, vous aurez l’occasion d’observer des lémuriens Indri Indri qui sont les plus grands lémuriens de Madagascar. Ensuite, vous continuez le périple vers Manambato et Ankan’ny Nofy pour faire un tour dans ces grands lacs et dans la réserve de Palmarium. Puis, le voyage continue vers l’île sainte Marie pour un séjour balnéaire et safari baleine.",
             "duration": "11 jours et 10 nuits",
             "image_folder": "est",
-            "price": "À partir de 990 euro/personne",
+            "price": "À partir de 990 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 295 euro/personne"
+                    "price": "1 295 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 200 €s/personne"
+                    "price": "1 200 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 130 euro/personne"
+                    "price": "1 130 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "990 €s/personne"
+                    "price": "990 € /personne"
                 }
             ],
             "include": [
@@ -424,7 +424,7 @@
                     "day": 3,
                     "distance": "Andasibe – Vohimana (20km, 30min)",
                     "description": "Visite du parc national d’Andasibe dans la matinée. C’est le rendez-vous avec des Indri ndri et d’autres espèces animales et végétales. Déjeuner à Andasibe et en route pour Vohimana dans l’après-midi, qui se trouve à seulement 20 km d’Andasibe.<br>Nuitée à Vohimana."
-                } ,
+                },
                 {
                     "day": 4,
                     "distance": "Vohimana",
@@ -477,23 +477,23 @@
             "description": "Partez à la découverte de la plus belle montagne de Madagascar. Marojejy se trouve dans la partie nord-est de Madagascar, soit à 60km à l’ouest de la ville de Sambava. Marojejy figure parmi les plus beaux parcs nationaux de Madagascar, mais il faut vraiment être sportif et aventureux pour pouvoir découvrir l’ensemble de ce parc. Il est le seul endroit où vous pourrez observer le magnifique lémurien propithèque soyeux. A part cela, Marojejy vous plongera à la rencontre d’une biodiversité unique et exceptionnelle de Madagascar.",
             "duration": "09 jours et 08 nuits",
             "image_folder": "marojejy",
-            "price": "À partir de 995€s/personne",
+            "price": "À partir de 995 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 490 euro/personne"
+                    "price": "1 490 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 180 euro/personne"
+                    "price": "1 180 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 090 euro/personne"
+                    "price": "1 090 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "995 euro/personne"
+                    "price": "995 € /personne"
                 }
             ],
             "include": [
@@ -527,7 +527,7 @@
                     "day": "3 au jour 6",
                     "distance": "",
                     "description": "Nous prendrons 04 jours et 03 nuits pour explorer l’ensemble du parc depuis l’entrée jusqu’au sommet qui cumule à 2 132m d’altitude. Les nuitées se feront dans les petits bungalow des trois campements du site. Cette visite de parc national Marojejy vous fera vivre une expérience inoubliable dans une nature unique dans son  genre."
-                } ,
+                },
                 {
                     "day": 7,
                     "distance": "Marojejy – Sambava (60km, 01h)",
@@ -555,23 +555,23 @@
             "description": "Le nord de Madagascar est l’une des régions la plus riche en matière d’attraits touristiques du pays. On y trouve presque tous les quêtes des touristes comme des parcs nationaux, des faunes et flores, des belles plages, de l’histoire, de la culture etc. À Diego, vous tomberez sur le parc national d’Ankarana et Montagne d’ambre, les trois baies, la mer d’émeraude, plage de Ramena et la montagne des français. À Nosy Be, vous serez éblouis par ses petites iles avoisinantes, ses sites culturels et ainsi que ses parcs terrestres.<br><strong>Note :</strong> Vous pouvez commencer ce circuit soit en prenant un vol direct depuis chez vous vers Nosy Be, soit en passant par Antananarivo et ensuite prendre un vol domestique vers Nosy Be.",
             "duration": "13 jours et 12 nuits",
             "image_folder": "nord",
-            "price": "À partir de 1 160 euro/personne",
+            "price": "À partir de 1 160 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 379 euro/ personne"
+                    "price": "1 379 € / personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 210 euro/ personne"
+                    "price": "1 210 € / personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 195 euro/ personne"
+                    "price": "1 195 € / personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "1 160 euro/ personne"
+                    "price": "1 160 € / personne"
                 }
             ],
             "include": [
@@ -606,7 +606,7 @@
                     "day": 3,
                     "distance": "Nosy Iranja",
                     "description": "Excursion vers Nosy Iranja. C’est une petite île qui se trouve à 45 km à l’ouest de Nosy Be. Elle est reconnue mondialement par ses belles plages et le banc de sable blanc d’un kilomètre qui relie une île à une autre. Nosy Iranja est un vrai paradis que tout le monde apprécie.<br> Nuitée à l’hôtel de Nosy Be."
-                } ,
+                },
                 {
                     "day": 4,
                     "distance": "Nosy Be",
@@ -666,7 +666,7 @@
             "description": "Andasibe se trouve à 140 km à l’est d’Antananarivo, sur la rn2. Le parc est mondialement reconnue grâce à la présence de l’Indri indri qui est la plus grande espèce de lémurien à Madagascar. À part des lémuriens, d’autres animaux comme des caméléons, des serpents, des oiseaux, des amphibiens et des insectes sont également trouvés dans ce site.",
             "duration": "02 jours (nombre de jours personnalisable)",
             "image_folder": "andasibe",
-            "price": "À partir de 195 euro/personne",
+            "price": "À partir de 195 € /personne",
             "programs": [
                 {
                     "day": 1,
@@ -682,19 +682,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "290 €/personne"
+                    "price": "290 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "260 €/personne"
+                    "price": "260 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "220 €/personne"
+                    "price": "220 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "195 €/personne"
+                    "price": "195 € /personne"
                 }
             ],
             "include": [
@@ -714,7 +714,7 @@
             "description": "Vohimana se trouve à 148 km d’Antananarivo sur la rn2. C’est un endroit magnifique, calme et reposant, où les chants des oiseaux et les sons des rivières émerveilleront vos oreilles durant votre séjour. Vohimana n’est pas accessible en voiture, il faut marcher à pied environ 1,5 km pour rejoindre le relais de naturaliste qui est le seul établissement hôtelier de Vohimana. Pour les aventuriers, plusieurs circuits dans la forêt sont faisables à Vohimana. Des lémuriens, des reptiles, des amphibiens ou encore des insectes y seront au rendez-vous. Sans oublier les jolies cascades et piscines naturelles qui se trouvent juste à côté du relais.",
             "duration": "02 jours (nombre de jours personnalisable)",
             "image_folder": "vohimana",
-            "price": "À partir de 195 euro/personne",
+            "price": "À partir de 195 € /personne",
             "programs": [
                 {
                     "day": 1,
@@ -730,19 +730,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "260 €/personne"
+                    "price": "260 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "230 €/personne"
+                    "price": "230 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "215 €/personne"
+                    "price": "215 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "195 €/personne"
+                    "price": "195 € /personne"
                 }
             ],
             "include": [
@@ -762,7 +762,7 @@
             "description": "Antsirabe se trouve à 180km au sud d’Antananarivo, sur la rn7. C’est la troisième plus grande ville de Madagascar après Antananarivo et Toamasina. Antsirabe est une ville touristique, calme et propre; réputé par ses sources d’eau thermale et le fameux lac Tritriva.",
             "duration": "02 jours (nombre de jours personnalisable)",
             "image_folder": "antsirabe",
-            "price": "À partir de 200 euro/personne",
+            "price": "À partir de 200 € /personne",
             "programs": [
                 {
                     "day": 1,
@@ -778,19 +778,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "280 €/personne"
+                    "price": "280 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "250 €/personne"
+                    "price": "250 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "230 €/personne"
+                    "price": "230 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "200 €/personne"
+                    "price": "200 € /personne"
                 }
             ],
             "include": [
