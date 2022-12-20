@@ -333,7 +333,7 @@
                     "description": "En route pour l’aventure après le petit déjeuner. Une petite pause à Ambatolampy pour visiter la fonderie en aluminium qui fabrique des marmites majoritairement utilisées sur toute l’île. Déjeuner à Antsirabe et un petit tour de ville en pousse pousse avant de continuer le voyage vers Miandrivazo."
                 },
                 {
-                    "day": [3, 4, 5],
+                    "day": " 3, jour4, jour 5",
                     "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
                     "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour."
                 } ,
@@ -679,7 +679,7 @@
                     "description": "Après le petit déjeuner, c’est parti pour l’aventure dans la forêt d’Anlamazaotra Andasibe. C’est une forêt primaire de 08km² qui reste encore intacte. Nous ferons un circuit de 02 à 03 heures pendant lesquelles vous serez épatés par les spectacles que les lémuriens Indri indri vous offriront. Après la visite du parc, prenons un déjeuner dans un restaurant à proximité et ensuite, rentrer à Antananarivo."
                 }
             ],
-            "pricing": [
+            "prices": [
                 {
                     "person_nbr": "02 personnes",
                     "price": "290 €/personne"
@@ -727,7 +727,7 @@
                     "description": "C’est parti pour l’aventure après le petit déjeuner. Dans la matinée nous faisons une bonne balade dans la forêt, où nous passeront 04heures de temps, soit 08km de marche. De la forêt tertiaire à la forêt primaire, vous ne serez sûrement pas déçu de la biodiversité qui s’y trouve. Des animaux sauvages et des végétations endémiques de l’île vous raviront les yeux durant le parcours. Nous rentrons à Antananarivo après le déjeuner."
                 }
             ],
-            "pricing": [
+            "prices": [
                 {
                     "person_nbr": "02 personnes",
                     "price": "260 €/personne"
@@ -775,7 +775,7 @@
                     "description": "Après le petit déjeuner, nous partons à Sahamadio qui se trouve à 30 km au sud d’Antsirabe. Nous y ferons une bonne randonnée de 08 km, traversant des villages, des rizières, des champs de cultures et une forêt de Tapia. A la fin du parcours, nous tomberont sur un magnifique cours d’eau totalement propre où vous pourrez faire une baignade pour se rafraichir. On y trouve deux cascades et trois piscines naturelles. Déjeuner sandwich sur place et nous rentrons à Antananarivo après la randonnée."
                 }
             ],
-            "pricing": [
+            "prices": [
                 {
                     "person_nbr": "02 personnes",
                     "price": "280 €/personne"
