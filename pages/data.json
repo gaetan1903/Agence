@@ -5,6 +5,7 @@
             "description": "Le lac d’Andranotoraha se trouve à environ 110 km d’Antananarivo sur la Rn1. C’est un parcours d’environ 10 km qui vous fera plonger dans une multitude de variété de paysages et des histoires mystérieuses. Après la gravure de la montagne d’Antanetibe (environ 1700m d’altitude), vous serez récompensés par une magnifique vue panoramique à perte de vue sur toute la partie Est. Puis vous descendez vers le lac cratère d’Andranotoraha. De loin, vous allez apercevoir sa couleur bleu turquoise et de près, vous serez surpris par des flores qui poussent dans le lac. Une baignade et une partie de pêche sont faisables sur place avant de continuer le parcours vers Anlavory qui est le point d’arrivée de la randonnée.",
             "duration": "01 jour",
             "difficulty": "06/10",
+            "image_folder": "andranotoraha",
             "distance": "10 km",
             "prices": [
                 {
@@ -39,6 +40,7 @@
             "title": "Randonnée à Anjiro",
             "description": "Anjiro se trouve à 78 km d’Antananarivo sur la rn2.C’est un village pittoresque qui a un énorme attrait touristique. Les villageois y sont très accueillants et souriants. À 08km d’Anjiro, on trouve la fameuse chute d’Andriamamovoka avec une hauteur d’environ 100m. Très souvent, les locaux font des rites en demandant des bénédictions aux ancêtres à travers la chute d’Andriamamovoka. Une randonnée de 16 km au total vous suffira pour découvrir ce petit paradis en passant par des voies ferrées, des rizières, des petits villages et une forêt semi-primaire.",
             "duration": "01 jour",
+            "image_folder": "anjiro",
             "difficulty": "06/10",
             "distance": "16 km",
             "prices": [
@@ -75,6 +77,7 @@
             "title": "Excursion au Lemur’s Park",
             "description": "Lemur’s park est le site le plus près d’Antananarivo pour rencontrer des lémuriens en liberté. Cet endroit se trouve seulement à 22 km de la capitale, sur la rn1. <br>Ce site privé préserve des animaux sans les mettre dans des cages. Entre autre on y trouve des caméléons, des tortues, mais les plus remarquables sont des lémuriens qui sont des animaux endémiques et emblématiques de Madagascar. Vous allez y trouver 07 espèces de lémuriens.",
             "duration": "01 jour",
+            "image_folder": "lemurs",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -109,6 +112,7 @@
             "title": "Tour de ville Antananarivo",
             "description": "Une journée de tour de ville vous permet de mieux connaître la ville d’Antananarivo sur le plan touristique, social, économique et démographique. On commence le tour par la colline royale d’Ambohimanga qui se trouve à la périphérie de la capitale. Ambohimanga rova est un lieu sacré et berceau de la culture Merina et ses histoires. Vous allez y trouver des tombeaux royaux, des lieux de cultes, les demeures royales etc. Après la visite d’Ambohimanga rova, nous revenons au centre-ville pour prendre un déjeuner dans un restaurant typique malagasy.<br>Après le déjeuner, on vous amène faire un tour devant le palais présidentiel, ensuite descendre au marché d’Anlakely jusqu’à l’ancienne gare ferroviaire de Soarano. Pour finir le tour, nous nous dirigeons vers la haute ville où se trouve le plus grand palais royal de Madagascar qui se nomme Manjakamiadana. Une fois sur le sommet de la colline royale de Manjakamiadana, vous serez récompensés par une magnifique vue panoramique sur toute la partie ouest de la ville d’Antananarivo.",
             "duration": "01 jour",
+            "image_folder": "antananarivo",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -144,6 +148,7 @@
             "description": "Ankafobe se trouve à 132 km d’Antananarivo sur la rn4. Il paraît être loin mais une seule journée suffit pour découvrir ce bel endroit. La réserve d’Ankafobe se divise en deux partie. L’une est constitué par une forêt semi-primaire de 33 hectares où le taux d’endémicité des plantes est élevé à 98%. L’autre partie est caractérisée par une rivière avec deux jolies cascade, ainsi que quelques piscines naturelles où on peut se rafraichir. Une randonnée de 07 km au total est requise pour pouvoir découvrir l’ensemble de la réserve d’Ankafobe.",
             "duration": "01 jour",
             "difficulty": "05/10",
+            "image_folder": "ankafobe",
             "distance": "07 km",
             "prices": [
                 {
@@ -182,6 +187,7 @@
             "title": "Circuit sud de Madagascar – Rn7",
             "description": "La Rn7 est une route nationale de 971 km, qui relie Antananarivo et Tuléar. Ce circuit vous amène à la découverte des différentes cultures malagasy, des parcs nationaux comme Ranofana et Isalo, des réserves villageoises, de la plage et surtout, une rencontre avec la population locale.",
             "duration": "11 jours et 10 nuits",
+            "image_folder": "rn7",
             "price": "À partir de 1 140 €/personne",
             "prices": [
                 {
@@ -279,6 +285,7 @@
             "title": "Circuit Tsingy de Bemaraha et allée de Baobab",
             "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
             "duration": "11 jours et 10 nuits",
+            "image_folder": "bemaraha",
             "price": "À partir de 995€s/personne",
             "prices": [
                 {
@@ -328,7 +335,7 @@
                 {
                     "day": [3, 4, 5],
                     "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
-                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour5"
+                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour."
                 } ,
                 {
                     "day": 6,
@@ -366,6 +373,7 @@
             "title": "Circuit Est de Madagascar",
             "description": "La côte Est de Madagascar est la destination parfaite pour les amoureux de la nature, des animaux sauvages et de la plage. Pendant votre passage à Andasibe et à Vohimana, vous aurez l’occasion d’observer des lémuriens Indri Indri qui sont les plus grands lémuriens de Madagascar. Ensuite, vous continuez le périple vers Manambato et Ankan’ny Nofy pour faire un tour dans ces grands lacs et dans la réserve de Palmarium. Puis, le voyage continue vers l’île sainte Marie pour un séjour balnéaire et safari baleine.",
             "duration": "11 jours et 10 nuits",
+            "image_folder": "est",
             "price": "À partir de 990 euro/personne",
             "prices": [
                 {
@@ -468,6 +476,7 @@
             "title": "Marojejy",
             "description": "Partez à la découverte de la plus belle montagne de Madagascar. Marojejy se trouve dans la partie nord-est de Madagascar, soit à 60km à l’ouest de la ville de Sambava. Marojejy figure parmi les plus beaux parcs nationaux de Madagascar, mais il faut vraiment être sportif et aventureux pour pouvoir découvrir l’ensemble de ce parc. Il est le seul endroit où vous pourrez observer le magnifique lémurien propithèque soyeux. A part cela, Marojejy vous plongera à la rencontre d’une biodiversité unique et exceptionnelle de Madagascar.",
             "duration": "09 jours et 08 nuits",
+            "image_folder": "marojejy",
             "price": "À partir de 995€s/personne",
             "prices": [
                 {
@@ -545,6 +554,7 @@
             "title": "Circuit nord de Madagascar – Nosy Be et Diégo Suarez",
             "description": "Le nord de Madagascar est l’une des régions la plus riche en matière d’attraits touristiques du pays. On y trouve presque tous les quêtes des touristes comme des parcs nationaux, des faunes et flores, des belles plages, de l’histoire, de la culture etc. À Diego, vous tomberez sur le parc national d’Ankarana et Montagne d’ambre, les trois baies, la mer d’émeraude, plage de Ramena et la montagne des français. À Nosy Be, vous serez éblouis par ses petites iles avoisinantes, ses sites culturels et ainsi que ses parcs terrestres.<br><strong>Note :</strong> Vous pouvez commencer ce circuit soit en prenant un vol direct depuis chez vous vers Nosy Be, soit en passant par Antananarivo et ensuite prendre un vol domestique vers Nosy Be.",
             "duration": "13 jours et 12 nuits",
+            "image_folder": "nord",
             "price": "À partir de 1 160 euro/personne",
             "prices": [
                 {
@@ -655,6 +665,7 @@
             "title": "Andasibe",
             "description": "Andasibe se trouve à 140 km à l’est d’Antananarivo, sur la rn2. Le parc est mondialement reconnue grâce à la présence de l’Indri indri qui est la plus grande espèce de lémurien à Madagascar. À part des lémuriens, d’autres animaux comme des caméléons, des serpents, des oiseaux, des amphibiens et des insectes sont également trouvés dans ce site.",
             "duration": "02 jours (nombre de jours personnalisable)",
+            "image_folder": "andasibe",
             "price": "À partir de 195 euro/personne",
             "programs": [
                 {
@@ -702,6 +713,7 @@
             "title": "Vohimana",
             "description": "Vohimana se trouve à 148 km d’Antananarivo sur la rn2. C’est un endroit magnifique, calme et reposant, où les chants des oiseaux et les sons des rivières émerveilleront vos oreilles durant votre séjour. Vohimana n’est pas accessible en voiture, il faut marcher à pied environ 1,5 km pour rejoindre le relais de naturaliste qui est le seul établissement hôtelier de Vohimana. Pour les aventuriers, plusieurs circuits dans la forêt sont faisables à Vohimana. Des lémuriens, des reptiles, des amphibiens ou encore des insectes y seront au rendez-vous. Sans oublier les jolies cascades et piscines naturelles qui se trouvent juste à côté du relais.",
             "duration": "02 jours (nombre de jours personnalisable)",
+            "image_folder": "vohimana",
             "price": "À partir de 195 euro/personne",
             "programs": [
                 {
@@ -749,6 +761,7 @@
             "title": "Antsirabe",
             "description": "Antsirabe se trouve à 180km au sud d’Antananarivo, sur la rn7. C’est la troisième plus grande ville de Madagascar après Antananarivo et Toamasina. Antsirabe est une ville touristique, calme et propre; réputé par ses sources d’eau thermale et le fameux lac Tritriva.",
             "duration": "02 jours (nombre de jours personnalisable)",
+            "image_folder": "antsirabe",
             "price": "À partir de 200 euro/personne",
             "programs": [
                 {
