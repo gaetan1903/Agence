@@ -149,7 +149,6 @@
             "duration": "01 jour",
             "difficulty": "05/10",
             "image_folder": "ankafobe",
-            "distance": "07 km",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -441,22 +440,22 @@
                     "description": "Après le petit déjeuner, nous traversons en bateau le canal de pangalane pour se rendre à la réserve d’Ankan’ny Nofy. C’est un site très authentique, situé entre des lacs d’eau douce et l’océan Indien. Ankan’ny Nofy conquit les cœurs de ses visiteurs grâce à sa richesse faunistique et floristique. Vous y ferez une rencontre avec de lémurien catta ou maki, Sifaka, Indri indri et également d’Aye-Aye.<br>Nuitée à l’hôtel Manambato"
                 },
                 {
-                    "day": 7,
+                    "day": 6,
                     "distance": "Manambato – Tamatave (125km, 03h)",
                     "description": "Nous quittons Manambato pour aller à Tamatave avant de continuer vers l’île Sainte Marie.<br>Nuitée à l’hôtel Tamatave."
                 },
                 {
-                    "day": 8,
+                    "day": 7,
                     "distance": "Tamatave – Sainte Marie (150km, 04h)",
                     "description": "Le point d’embarquement en bateau vers Sainte Marie se trouve à Soanierana Ivongo. Nous ferons 03heures de route pour s’y rendre, et ensuite prendre un bateau pour Sainte Marie. Nuitée à l’hôtel Sainte Marie."
                 },
                 {
-                    "day": 9,
+                    "day": 8,
                     "distance": "Sainte Marie",
                     "description": "Excursion en 4x4 vers la cascade, la piscine naturelle et cimetières des pirates.<br>Nuitée à l’hôtel Sainte Marie."
                 },
                 {
-                    "day": 10,
+                    "day": 9,
                     "distance": "Sainte Marie",
                     "description": "Excursion vers l’îles aux nattes, qui se trouve juste à côté de l’île Sainte Marie. C’est une petite île magnifique entourée des sables blancs et une mer d’émeraude.<br>Nuitée à l’hôtel Sainte Marie."
                 },
@@ -553,7 +552,7 @@
         {
             "title": "Circuit nord de Madagascar – Nosy Be et Diégo Suarez",
             "description": "Le nord de Madagascar est l’une des régions la plus riche en matière d’attraits touristiques du pays. On y trouve presque tous les quêtes des touristes comme des parcs nationaux, des faunes et flores, des belles plages, de l’histoire, de la culture etc. À Diego, vous tomberez sur le parc national d’Ankarana et Montagne d’ambre, les trois baies, la mer d’émeraude, plage de Ramena et la montagne des français. À Nosy Be, vous serez éblouis par ses petites iles avoisinantes, ses sites culturels et ainsi que ses parcs terrestres.<br><strong>Note :</strong> Vous pouvez commencer ce circuit soit en prenant un vol direct depuis chez vous vers Nosy Be, soit en passant par Antananarivo et ensuite prendre un vol domestique vers Nosy Be.",
-            "duration": "13 jours et 12 nuits",
+            "duration": "13 jours et 14 nuits",
             "image_folder": "nord",
             "price": "À partir de 1 160 € /personne",
             "prices": [
@@ -582,14 +581,14 @@
                 "Toutes les activités mentionnées dans le programme",
                 "Tickets d’entrée dans les sites à visiter dans le programme",
                 "Guides locaux",
-                "Les déjeuners pique-niques durant les excursions à Nosy Be et à Diego",
-                "Vol domestique Antananarivo – Nosy Be - Antananarivo"
+                "Les déjeuners pique-niques durant les excursions à Nosy Be et à Diego"
             ],
             "exclude": [
                 "Vols internationaux",
                 "Bouteilles d’eau et boissons",
                 "Les repas durant le circuit",
-                "Les activités non mentionnées dans le programme"
+                "Les activités non mentionnées dans le programme",
+                "Vol domestique Antananarivo – Nosy Be - Antananarivo"
             ],
             "programs": [
                 {
@@ -599,62 +598,67 @@
                 },
                 {
                     "day": 2,
+                    "distance": "Nosy Be",
+                    "description": "Tour de ville de Nosy Be en voiture. Tout d’abord, on vous amène vers lemuria land qui est une réserve zoologique et botanique où on peut observer des lémuriens, des crocodiles, des caméléons, des tortues géantes etc. Ensuite, on continue la balade vers l’abre sacré de Mahatsinjo. Après cela, nous prenons le déjeuner dans un restaurant dans la ville. Dans l’après-midi, nous passerons nos temps sur la plage d’Andilana et finir la journée en observant un magnifique couché de soleil sur Mont Passot.<br>Nuitée à l’hôtel de Nosy Be."
+                },
+                {
+                    "day": 2,
                     "distance": "Nosy Komba et Nosy Tanikely",
                     "description": "Excursion vers Nosy Tanikely et Nosy Komba. C’est une sortie en mer pendant laquelle vous pourrez profiter des belles plages, faire du snorkeling tout en observant des faunes et flores marines exceptionnelles. Après Nosy Tanikely, on vous amène à Nosy Komba pour rencontrer des lémuriens macaco.<br>Nuitée à l’hôtel de Nosy Be."
                 },
                 {
-                    "day": 3,
+                    "day": 4,
                     "distance": "Nosy Iranja",
                     "description": "Excursion vers Nosy Iranja. C’est une petite île qui se trouve à 45 km à l’ouest de Nosy Be. Elle est reconnue mondialement par ses belles plages et le banc de sable blanc d’un kilomètre qui relie une île à une autre. Nosy Iranja est un vrai paradis que tout le monde apprécie.<br> Nuitée à l’hôtel de Nosy Be."
                 },
                 {
-                    "day": 4,
+                    "day": 5,
                     "distance": "Nosy Be",
                     "description": "Journée libre à Nosy Be pour pouvoir se reposer après les excursions et également pour préparer la suite du voyage à Diego. <br> Nuitée à l’hôtel de Nosy Be."
                 },
                 {
-                    "day": 5,
+                    "day": 6,
                     "distance": "Nosy Be – Ankarana (212km,06h)",
                     "description": "Après le petit déjeuner, on se rend au port de Nosy Be pour traverser la mer en bateau rapide jusqu’à Ankify. Une fois traversés, notre voiture nous attend déjà sur place et en route pour Ankarana qui sera notre prochain lieu à découvrir. <br>Nuitée à l’hôtel Ankarana."
                 },
                 {
-                    "day": 6,
+                    "day": 7,
                     "distance": "Ankarana",
                     "description": "Ankarana était un endroit de refuge par le peuple Antakarana. La balade dans ce parc vous permet de voir des grottes, une étendue de Tsingy identique à celui de Bemaraha, un pont suspendu, un lac sacré et avec un peu de chance, vous tomberez sur des espèces animales comme des lémuriens, des reptiles et des oiseaux. Dans la fin d’après-midi, nous quittons Ankarana pour se rendre à Diego qui se trouve seulement à 29km.<br> Nuitée à l’hôtel Diego."
                 },
                 {
-                    "day": 7,
+                    "day": 8,
                     "distance": "Diego - Trois baies",
                     "description": "Excursion d’une journée sur les trois baies de Diego : baie des Dunes, baies des Pigeons et baie de Sakalava. C’est une série de plage à sable blanc, à mer d’émeraude et à des paysages à couper le souffle.<br>Nuitée à l’hôtel Diego."
                 },
                 {
-                    "day": 8,
+                    "day": 9,
                     "distance": "Diego- Montagne d’ambre",
                     "description": "Visite du parc national Montagne d’Ambre. C’est un endroit à ne pas rater lors d’un voyage à Diego. Le parc se trouve à seulement à 38 km de Diego et accessible en toute sorte voiture. C’est une forêt dense et humide qui vous fera découvrir plusieurs espèces de faunes et flores endémiques, cascade et piscine naturelle. <br>Nuitée à l’hôtel Diego."
                 },
                 {
-                    "day": 9,
+                    "day": 10,
                     "distance": "Diego",
                     "description": "Journée libre dans la matinée pour se reposer et tour de ville en Tuc-tuc dans l’après-midi.<br>Nuitée à l’hôtel Diego."
                 },
                 {
-                    "day": 10,
+                    "day": 11,
                     "distance": "Diego – Mer d’émeraude",
                     "description": "Excursion à la mer d’Emeraude. On s’embarque dans une barque à voile des pêcheurs et laissons le vent nous amène jusqu’à la fameuse mer d’émeraude. C’est le lagon le plus beau de Madagascar, mais qui reste encore peu fréquenté par les touristes. Avec sa couleur bleue turquoise, cette mer vous donnera l’impression d’être au plus bel endroit de la planète. <br>Oui, c’est un vrai coup de cœur.<br> Nuitée à l’hôtel Diego."
                 },
                 {
-                    "day": 11,
+                    "day": 12,
                     "distance": "Diego – Ankify (225km,05h)",
                     "description": "Après le petit déjeuner, nous reprenons la route pour se rendre à Ankify d’abord, avant de continuer le périple à Nosy Be le lendemain.<br> Nuitée à l’hôtel Ankify."
                 },
                 {
-                    "day": 12,
+                    "day": 13,
                     "distance": "Ankify – Nosy Be (25km, 30min)",
                     "description": "On traverse la mer dans la matinée pour revenir à Nosy Be. Quartier libre toute la journée afin de préparer votre vol le lendemain.<br>Nuitée à l’hôtel Nosy Be."
                 },
                 {
-                    "day": 13,
-                    "distance": "Nosy – Chez vous ou Nosy Be – Tana",
+                    "day": 14,
+                    "distance": "Nosy Be – Chez vous ou Nosy Be – Tana",
                     "description": ""
                 }
             ]
