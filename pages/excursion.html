@@ -28,7 +28,7 @@
   <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="../assets/vendor/splide/splide.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
@@ -111,14 +111,26 @@
     <section id="portfolio-details" class="portfolio-details">
       <div class="container">
         <!-- General information about the travel -->
-        <div v-if="data" class="general row gy-4 p-2">
+        <div class="general row gy-4 p-2">
           <div class="col-md-6 col-sm-12">
-            <img class="w-100 shadow rounded"
-              :src="'../assets/img/portfolio/'+( data.image_folder || 'andranotoraha') + '/image-1.jpg'" alt="">
+            <div class="splide" role="group">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide justify-content-center align-items-center">
+                    <img v-if=" data" class="img-fluid w-100 h-100 shadow rounded" style="object-fit: cover;"
+                    :src="'../assets/img/portfolio/'+( data.image_folder || 'andranotoraha') + '/image-1.jpg'" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img v-if="data" class="img-fluid w-100 h-100 shadow rounded" style="object-fit: cover;"
+                      :src="'../assets/img/portfolio/'+( data.image_folder || 'andranotoraha') + '/image-2.jpg'" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
           <div class="col-md-6 col-sm-12">
             <p class="justified-text" v-html="data.description"></p>
-            <div class="portfolio-info">
+            <div v-if="data" class="portfolio-info">
               <ul>
                 <li v-if="data.duration"><strong>Durée :</strong> {{ data.duration }}</li>
                 <li v-if="data.difficulty"><strong>Difficulté :</strong> {{ data.difficulty }}</li>
@@ -193,7 +205,7 @@
   <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="../assets/vendor/splide/splide.min.js"></script>
 
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
@@ -213,6 +225,16 @@
         this.getData();
       },
 
+      mounted() {
+        new Splide('.splide', {
+          type: 'loop',
+          perPage: 1,
+          perMove: 1,
+          autoplay: true,
+          wheel: true
+        }).mount();
+      },
+
       methods: {
         async getData() {
           const res = await fetch('data.json');
@@ -220,7 +242,7 @@
           this.data = data.excursion[index] || data.excursion[0];
         }
       }
-    }).mount('#main')
+    }).mount('#main');
   </script>
 </body>
 

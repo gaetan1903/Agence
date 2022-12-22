@@ -203,35 +203,4 @@
     selector: '.portfolio-lightbox'
   });
 
-  /**
-   * Portfolio details slider
-   */
-
-  var menu = ['1', '2', '3']
-
-  new Swiper('.main-swiper', {
-    speed: 400,
-    loop: true,
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    }
-  });
-
-  new Swiper('.child-swiper', {
-    speed: 400,
-    loop: true,
-    // autoplay: {
-    //   delay: 4000,
-    //   disableOnInteraction: false
-    // },
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-      renderBullet: function (index, className) {
-        return '<div class="' + className + '"><img src="../assets/img/portfolio/portfolio-' + (menu[index]) + '.jpg" alt=""></div>';
-      },
-    },
-  });
-
 })()
