@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Product sans';
+  font-family: 'Product Sans', sans-serif !important;
   color: #444444;
 }
 
@@ -68,6 +68,7 @@ h6 {
   border-radius: 10px 0;
   box-shadow: 0 1rem 3rem rgba(255, 255, 255, 0.356) !important;
 }
+
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
@@ -757,7 +758,7 @@ section {
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  background-size: cover; 
+  background-size: cover;
   border-radius: 5%;
   margin: 0 .5em;
   box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
@@ -891,9 +892,10 @@ section {
   color: #fff;
 }
 
-.services a h4:hover{
+.services a h4:hover {
   text-decoration: underline;
 }
+
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
@@ -1076,7 +1078,7 @@ section {
   padding-top: 40px;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-slide  img {
+.portfolio-details .portfolio-details-slider .swiper-slide img {
   width: 100%;
 }
 
@@ -1091,16 +1093,14 @@ section {
   opacity: 1;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination-bullet  img{
+.portfolio-details .portfolio-details-slider .swiper-pagination-bullet img {
   flex-shrink: 0;
   min-width: 100%;
   min-height: 100%;
   object-fit: cover;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination
-
-.portfolio-details .portfolio-info {
+.portfolio-details .portfolio-details-slider .swiper-pagination .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(34, 34, 34, 0.08);
 }
@@ -1137,9 +1137,13 @@ section {
   padding: 0;
 }
 
-.portfolio-details strong, h2, h3, h3 {
+.portfolio-details strong,
+h2,
+h3,
+h3 {
   color: #101046;
 }
+
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
@@ -1259,7 +1263,7 @@ section {
   color: #fff;
 }
 
-.contact .info .email a:hover{
+.contact .info .email a:hover {
   color: #222222;
 }
 
@@ -1409,4 +1413,3 @@ section {
 .ae-travel {
   color: #101046;
 }
-
