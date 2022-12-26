@@ -2,7 +2,7 @@
     "excursion": [
         {
             "title": "Randonnée à Andranotoraha",
-            "description": "Le lac d’Andranotoraha se trouve à environ 110 km d’Antananarivo sur la Rn1. C’est un parcours d’environ 10 km qui vous fera plonger dans une multitude de variété de paysages et des histoires mystérieuses. Après la gravure de la montagne d’Antanetibe (environ 1700m d’altitude), vous serez récompensés par une magnifique vue panoramique à perte de vue sur toute la partie Est. Puis vous descendez vers le lac cratère d’Andranotoraha. De loin, vous allez apercevoir sa couleur bleu turquoise et de près, vous serez surpris par des flores qui poussent dans le lac. Une baignade et une partie de pêche sont faisables sur place avant de continuer le parcours vers Anlavory qui est le point d’arrivée de la randonnée.",
+            "description": "Le lac d’Andranotoraha se trouve à environ 110 km d’Antananarivo sur la Rn1. C’est un parcours d’environ 10 km qui vous fera plonger dans une multitude de variété de paysages et des histoires mystérieuses. Après la gravure de la montagne d’Antanetibe (environ 1700m d’altitude), vous serez récompensés par une magnifique vue panoramique à perte de vue sur toute la partie Est. Puis, vous descendez vers le lac cratère d’Andranotoraha. De loin, vous allez apercevoir sa couleur bleu turquoise et de près, vous serez surpris par des flores qui poussent dans le lac. Une baignade et une partie de pêche sont faisables sur place avant de continuer le parcours vers Anlavory qui est le point d’arrivée de la randonnée.",
             "duration": "01 jour",
             "difficulty": "06/10",
             "image_folder": "andranotoraha",
@@ -145,7 +145,7 @@
         },
         {
             "title": "Randonnée Ankafobe",
-            "description": "Ankafobe se trouve à 132 km d’Antananarivo sur la rn4. Il paraît être loin mais une seule journée suffit pour découvrir ce bel endroit. La réserve d’Ankafobe se divise en deux partie. L’une est constitué par une forêt semi-primaire de 33 hectares où le taux d’endémicité des plantes est élevé à 98%. L’autre partie est caractérisée par une rivière avec deux jolies cascade, ainsi que quelques piscines naturelles où on peut se rafraichir. Une visite de 04 heures est suffisante pour tout découvrir dans la réserve d’Ankafobe.",
+            "description": "Ankafobe se trouve à 132 km d’Antananarivo sur la rn4. Il paraît être loin mais une seule journée suffit pour découvrir ce bel endroit. La réserve d’Ankafobe se divise en deux parties. L’une est constituée par une forêt semi-primaire de 33 hectares où le taux d’endémicité des plantes est élevé à 98%. L’autre partie est caractérisée par une rivière avec deux jolies cascades, ainsi que quelques piscines naturelles où on peut se rafraichir. Une visite de 04 heures est suffisante pour tout découvrir dans la réserve d’Ankafobe.",
             "duration": "01 jour",
             "difficulty": "05/10",
             "image_folder": "ankafobe",
@@ -334,7 +334,7 @@
                 {
                     "day": " 3, jour4, jour 5",
                     "distance": "Tsiribihina - Belo sur Tsiribihina (120km, 03jours)",
-                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au jour."
+                    "description": "Descente en pirogue traditionnelle, parcourant 120km pendant trois jours et deux nuits sous tentes. Ce trajet en pirogue vous fera découvrir les faunes et flores de cette région, la cascade de Nosy Ampela ainsi que sa fabuleuse piscine naturelle. Sans oublier une rencontre inoubliable avec les villageois qui vivent au bord du fleuve.<br>Nuitée à l’hôtel de Belo sur Tsiribihina au 5ème jour."
                 },
                 {
                     "day": 6,
@@ -344,7 +344,7 @@
                 {
                     "day": 7,
                     "distance": "Bekopaka – Tsingy de Bemaraha – Bekopaka",
-                    "description": "Le moment est venu pour explorer le spectaculaire Tsingy de Bemaraha. C’est un site protégé de 152 000ha, généralement composé par des roches des calcaires pointus de couleur grises. Ce parc est également riche en matières de faunes et flores comme des lémuriens, oiseaux aquatique et terrestres, amphibiens, reptiles, chauves-souris etc.<br>Nuitée à l’hôtel Bekopaka"
+                    "description": "Le moment est venu pour explorer le spectaculaire Tsingy de Bemaraha. C’est un site protégé de 152 000ha, généralement composé par des roches des calcaires pointues de couleur grises. Ce parc est également riche en matière de faunes et flores comme des lémuriens, oiseaux aquatique et terrestres, amphibiens, reptiles, chauves-souris etc.<br>Nuitée à l’hôtel Bekopaka"
                 },
                 {
                     "day": 8,
