@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <meta charset="utf-8">
@@ -42,7 +42,6 @@
       <div class="social-links d-none d-md-block">
         <a href="https://web.facebook.com/aesteam.mada" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ae_s_team_madagascar/" class="instagram"><i class="bi bi-instagram"></i></a>
-        <!-- <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> -->
       </div>
     </div>
   </section>
@@ -70,14 +69,10 @@
           <li><a class="nav-link scrollto" href="./index.html#excursion">Excursions</a></li>
           <li><a class="nav-link scrollto " href="./index.html#circuit">Circuits</a></li>
           <li><a class="nav-link scrollto" href="./index.html#voyage">Voyages 02 jours</a></li>
-          <!-- <li class="dropdown"><a href="#"><span>Nos offres</span> <i class="bi bi-chevron-down"></i></a>
-              <ul>
-                <li><a href="./pages/excursion.html">Excursions</a></li>
-                <li><a href="./pages/circuit.html">Circuits</a></li>
-                <li><a href="./pages/voyage.html">Voyage 02 jours</a></li>
-              </ul>
-            </li> -->
           <li><a class="getstarted scrollto" href="./index.html#contact">Contactez-nous</a></li>
+          <li>
+            <div id="google_translate_element"></div>
+          </li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -662,6 +657,19 @@
 
     gtag('config', 'G-2EQC69WFZL');
   </script>
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({ pageLanguage: 'fr', includedLanguages: 'en,mg,it,fr,es' }, 'google_translate_element');
+      var google_gadget = document.getElementsByClassName('goog-te-gadget')[0];
+      var goog_te_combo = document.getElementsByClassName('goog-te-combo')[0];
+      google_gadget.parentNode.replaceChild(google_gadget.children[0], google_gadget);
+      goog_te_combo.classList.add("form-select");
+    }
+  </script>
+
+  <script type="text/javascript"
+    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 </body>
 

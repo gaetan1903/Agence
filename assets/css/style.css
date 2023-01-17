@@ -1413,3 +1413,25 @@ h3 {
 .ae-travel {
   color: #101046;
 }
+
+/********************************
+Google traduction hiden
+********************************/
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+
+}
+
+.goog-te-combo {
+  color: #101046;
+  padding: 8px 25px;
+  /* margin-left: 30px; */
+  border-radius: 4px;
+  border: 2px solid #101046;
+  transition: 0.3s;
+  font-size: 14px;
+}
