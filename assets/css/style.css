@@ -155,7 +155,7 @@ h6 {
   padding: 0;
 }
 
-.navbar ul {
+.navbar>ul {
   margin: 0;
   padding: 0;
   display: flex;
@@ -212,7 +212,16 @@ h6 {
   color: #fff;
 }
 
-.navbar .dropdown ul {
+.navbar .dropdown button {
+  color: #101046;
+  padding: 8px 25px;
+  border-radius: 4px;
+  border: 2px solid #101046;
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+/* .navbar .dropdown ul {
   display: block;
   position: absolute;
   left: 14px;
@@ -225,10 +234,6 @@ h6 {
   background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
-}
-
-.navbar .dropdown ul li {
-  min-width: 200px;
 }
 
 .navbar .dropdown ul a {
@@ -273,7 +278,7 @@ h6 {
   .navbar .dropdown .dropdown:hover>ul {
     left: -100%;
   }
-}
+} */
 
 /**
 * Mobile Navigation 
@@ -1377,7 +1382,7 @@ h3 {
 }
 
 #footer .social-links {
-  margin: 0 0 40px 0;
+  margin: 0 0 25px 0;
 }
 
 #footer .social-links a {
@@ -1408,7 +1413,6 @@ h3 {
 #footer .credits {
   font-size: 13px;
 }
-
 
 .ae-travel {
   color: #101046;
