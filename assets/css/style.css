@@ -1439,3 +1439,7 @@ body {
   transition: 0.3s;
   font-size: 14px;
 }
+
+div.skiptranslate {
+  display: none;
+}
