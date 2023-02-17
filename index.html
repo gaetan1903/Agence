@@ -46,6 +46,7 @@
     </div>
   </section>
 
+  <!-- ======= Header ======= -->
   <header id="header" class="align-items-center">
     <nav class="navbar navbar-light navbar-expand-md bg-faded justify-content-center">
       <div class="container-xl">
@@ -75,27 +76,27 @@
                     Langue
                   </button>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-item text-capitalize" onclick="translatePage('Français')"> <span
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Français', 'fr')"> <span
                         class="me-2 fi fi-fr">
                       </span>French
                     </li>
-                    <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais')"> <span
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais', 'en')"> <span
                         class="me-2 fi fi-us">
-                      </span>English
+                      </span>Anglais
                     </li>
-                    <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol')"> <span
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol', 'es')"> <span
                         class="me-2 fi fi-es">
                       </span>Spanish
                     </li>
-                    <li class="dropdown-item text-capitalize" onclick="translatePage('Italien')"> <span
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Italien', 'it')"> <span
                         class="me-2 fi fi-it">
-                      </span>Italian
+                      </span>Italien
                     </li>
-                    <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand')"> <span
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand', 'de')"> <span
                         class="me-2 fi fi-de">
-                      </span>German
+                      </span>Allemand
                     </li>
-                    <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache')"> <span
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache', 'mg')"> <span
                         class="me-2 fi fi-mg">
                       </span>Malgache
                     </li>
@@ -109,6 +110,7 @@
       </div>
     </nav>
   </header>
+  <!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
@@ -644,22 +646,28 @@
           Langue
         </button>
         <ul class="dropdown-menu">
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Français')"> <span class="me-2 fi fi-fr">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Français', 'fr')"> <span
+              class="me-2 fi fi-fr">
             </span>Français
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais')"> <span class="me-2 fi fi-us">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais', 'en')"> <span
+              class="me-2 fi fi-us">
             </span>Anglais
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol')"> <span class="me-2 fi fi-es">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol', 'es')"> <span
+              class="me-2 fi fi-es">
             </span>Espagnol
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Italien')"> <span class="me-2 fi fi-it">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Italien', 'it')"> <span
+              class="me-2 fi fi-it">
             </span>Italien
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand')"> <span class="me-2 fi fi-de">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand', 'de')"> <span
+              class="me-2 fi fi-de">
             </span>Allemand
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache')"> <span class="me-2 fi fi-mg">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache', 'mg')"> <span
+              class="me-2 fi fi-mg">
             </span>Malgache
           </li>
         </ul>
@@ -722,20 +730,8 @@
   <!----- | ------>
 
   <!-- Google Translate -->
+  <script src="assets/js/translate.js"></script>
   <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-  <script type="text/javascript">
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement({ pageLanguage: 'fr', autoDisplay: false, includedLanguages: 'fr,en,es,it,de,mg' }, 'google_translate_element');
-    }
-
-    function translatePage(lang) {
-      googleTranslateElementInit();
-      var $iframe = $("iframe.skiptranslate");
-      if ($iframe) {
-        $iframe.contents().find("span.text:contains('" + lang + "')").click();
-      }
-    }
-  </script>
   <!----- | ------>
 
 </body>

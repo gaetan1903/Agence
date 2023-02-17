@@ -51,70 +51,68 @@
   </section>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex align-items-center">
-
-      <h1 class="logo me-auto">
-        <div class="row">
-          <div class="col-2">
-            <img width='50px' src="../assets/img/favicon.png" alt="">
-          </div>
-          <div class="col-10 align-middle pt-2">
-            <a href="../index.html">AE Travel Madagascar</a>
-          </div>
-      </h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="../index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto active" href="../index.html#hero">Acceuil</a></li>
-          <li><a class="nav-link scrollto" href="../index.html#about">Qui sommes-nous ?</a></li>
-          <li><a class="nav-link scrollto" href="../index.html#excursion">Excursions</a></li>
-          <li><a class="nav-link scrollto " href="../index.html#circuit">Circuits</a></li>
-          <li><a class="nav-link scrollto" href="../index.html#voyage">Voyages 02 jours</a></li>
-          <li><a class="getstarted scrollto text-capitalize" href="../index.html#contact">Contactez-nous</a></li>
-          <li>
-            <div class="trans-section">
-              <div id="google_translate_element" style="display: none;"></div>
-              <div class="dropdown">
-                <button class="btn dropdown-toggle ms-2" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Langue
-                </button>
-                <ul class="dropdown-menu">
-                  <li class="dropdown-item text-capitalize" onclick="translatePage('Français')"> <span
-                      class="me-2 fi fi-fr">
-                    </span>Français
-                  </li>
-                  <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais')"> <span
-                      class="me-2 fi fi-us">
-                    </span>Anglais
-                  </li>
-                  <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol')"> <span
-                      class="me-2 fi fi-es">
-                    </span>Espagnol
-                  </li>
-                  <li class="dropdown-item text-capitalize" onclick="translatePage('Italien')"> <span
-                      class="me-2 fi fi-it">
-                    </span>Italien
-                  </li>
-                  <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand')"> <span
-                      class="me-2 fi fi-de">
-                    </span>Allemand
-                  </li>
-                  <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache')"> <span
-                      class="me-2 fi fi-mg">
-                    </span>Malgache
-                  </li>
-                </ul>
-              </div>
+  <header id="header" class="align-items-center">
+    <nav class="navbar navbar-light navbar-expand-md bg-faded justify-content-center">
+      <div class="container-xl">
+        <div class="d-flex flex-row">
+          <a class="p-0" href="../index.html" class="navbar-brand d-flex w-50 me-auto">
+            <img src="../assets/img/favicon.png" width="50" alt="AE Travel Madagascar" class="img-fluid">
+            <div id="logo-title" class="d-flex flex-column p-2 pt-0 pb-0">
+              <h4>AE Travel Madagascar</h4>
             </div>
-          </li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-    </div>
+          </a>
+        </div>
+        <div class="navbar-collapse collapse" id="collapsingNavbar3">
+          <ul class="nav navbar-nav ms-auto">
+            <li class="nav-iteam"><a class="nav-link scrollto active" href="../index.html#hero">Acceuil</a></li>
+            <li class="nav-iteam"><a class="nav-link scrollto" href="../index.html#about">Qui sommes-nous ?</a></li>
+            <li class="nav-iteam"><a class="nav-link scrollto" href="../index.html#excursion">Excursions</a></li>
+            <li class="nav-iteam"><a class="nav-link scrollto " href="../index.html#circuit">Circuits</a></li>
+            <li class="nav-iteam"><a class="nav-link scrollto" href="../index.html#voyage">Voyages 02 jours</a></li>
+            <li class="nav-iteam"><a class="getstarted scrollto text-capitalize"
+                href="../index.html#contact">Contactez-nous</a></li>
+            <li class="nav-iteam">
+              <div class="trans-section">
+                <div id="google_translate_element" style="display: none;"></div>
+                <div class="dropdown">
+                  <button class="btn dropdown-toggle ms-2" type="button" data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    Langue
+                  </button>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Français', 'fr')"> <span
+                        class="me-2 fi fi-fr">
+                      </span>French
+                    </li>
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais', 'en')"> <span
+                        class="me-2 fi fi-us">
+                      </span>Anglais
+                    </li>
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol', 'es')"> <span
+                        class="me-2 fi fi-es">
+                      </span>Spanish
+                    </li>
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Italien', 'it')"> <span
+                        class="me-2 fi fi-it">
+                      </span>Italien
+                    </li>
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand', 'de')"> <span
+                        class="me-2 fi fi-de">
+                      </span>Allemand
+                    </li>
+                    <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache', 'mg')"> <span
+                        class="me-2 fi fi-mg">
+                      </span>Malgache
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <i class="bi bi-list mobile-nav-toggle ms-auto"></i>
+      </div>
+    </nav>
   </header>
   <!-- End Header -->
 
@@ -145,7 +143,7 @@
               <div class="splide__track">
                 <ul class="splide__list">
                   <li class="splide__slide justify-content-center align-items-center">
-                    <img v-if=" data" class="img-fluid w-100 h-100 shadow rounded" style="object-fit: cover;"
+                    <img v-if="data" class="img-fluid w-100 h-100 shadow rounded" style="object-fit: cover;"
                       :src="'../assets/img/portfolio/'+( data.image_folder || 'andranotoraha') + '/image-1.jpg'" alt="">
                   </li>
                   <li class="splide__slide">
@@ -157,7 +155,7 @@
             </div>
           </div>
           <div class="col-md-6 col-sm-12">
-            <p class="justified-text" v-html="data.description"></p>
+            <p v-if="data" class="justified-text" v-html="data.description"></p>
             <div v-if="data" class="portfolio-info">
               <ul>
                 <li v-if="data.duration"><strong>Durée :</strong> {{ data.duration }}</li>
@@ -226,22 +224,28 @@
           Langue
         </button>
         <ul class="dropdown-menu">
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Français')"> <span class="me-2 fi fi-fr">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Français', 'fr')"> <span
+              class="me-2 fi fi-fr">
             </span>Français
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais')"> <span class="me-2 fi fi-us">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Anglais', 'en')"> <span
+              class="me-2 fi fi-us">
             </span>Anglais
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol')"> <span class="me-2 fi fi-es">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Espagnol', 'es')"> <span
+              class="me-2 fi fi-es">
             </span>Espagnol
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Italien')"> <span class="me-2 fi fi-it">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Italien', 'it')"> <span
+              class="me-2 fi fi-it">
             </span>Italien
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand')"> <span class="me-2 fi fi-de">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Allemand', 'de')"> <span
+              class="me-2 fi fi-de">
             </span>Allemand
           </li>
-          <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache')"> <span class="me-2 fi fi-mg">
+          <li class="dropdown-item text-capitalize" onclick="translatePage('Malgache', 'mg')"> <span
+              class="me-2 fi fi-mg">
             </span>Malgache
           </li>
         </ul>
@@ -318,20 +322,8 @@
   <!----- | ------>
 
   <!-- Google Translate -->
+  <script src="../assets/js/translate.js"></script>
   <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-  <script type="text/javascript">
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement({ pageLanguage: 'fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, includedLanguages: 'en,mg,it,fr,es,de' }, 'google_translate_element');
-    }
-
-    function translatePage(lang) {
-      googleTranslateElementInit();
-      var $iframe = $("iframe.skiptranslate");
-      if ($iframe) {
-        $iframe.contents().find("span.text:contains('" + lang + "')").click();
-      }
-    }
-  </script>
   <!----- | ------>
 </body>
 
