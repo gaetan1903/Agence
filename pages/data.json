@@ -10,19 +10,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "97 € /personne"
+                    "price": "90 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "77 € /personne"
+                    "price": "70 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "62 € /personne"
+                    "price": "60 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "48 € /personne"
+                    "price": "50 € /personne"
                 }
             ],
             "include": [
@@ -46,19 +46,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "97 € /personne"
+                    "price": "95 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "77 € /personne"
+                    "price": "75 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "62 € /personne"
+                    "price": "65 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "47 € /personne"
+                    "price": "55 € /personne"
                 }
             ],
             "include": [
@@ -81,15 +81,15 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "95 € /personne"
+                    "price": "85 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "75 € /personne"
+                    "price": "58 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "60 € /personne"
+                    "price": "50 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
@@ -116,19 +116,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "95 € /personne"
+                    "price": "68 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "80 € /personne"
+                    "price": "55 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "70 € /personne"
+                    "price": "45 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "60 € /personne"
+                    "price": "40 € /personne"
                 }
             ],
             "include": [
@@ -152,19 +152,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "97 € /personne"
+                    "price": "100 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "77 € /personne"
+                    "price": "80 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "67 € /personne"
+                    "price": "70 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "47 € /personne"
+                    "price": "60 € /personne"
                 }
             ],
             "include": [
@@ -191,19 +191,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 485 € /personne"
+                    "price": "1 450 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 360 € /personne"
+                    "price": "1 300 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 250 € /personne"
+                    "price": "1 200 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "1 140 € /personne"
+                    "price": "1 000 € /personne"
                 }
             ],
             "include": [
@@ -289,19 +289,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 690 € /personne"
+                    "price": "1 500 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 195 € /personne"
+                    "price": "1 400 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 090 € /personne"
+                    "price": "1 300 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "995 € /personne"
+                    "price": "1 200 € /personne"
                 }
             ],
             "include": [
@@ -377,19 +377,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 295 € /personne"
+                    "price": "1 250 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 200 € /personne"
+                    "price": "1 150 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 130 € /personne"
+                    "price": "950 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "990 € /personne"
+                    "price": "850 € /personne"
                 }
             ],
             "include": [
@@ -480,19 +480,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 490 € /personne"
+                    "price": "1 400 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 180 € /personne"
+                    "price": "1 300 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 090 € /personne"
+                    "price": "1 200 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "995 € /personne"
+                    "price": "1 100 € /personne"
                 }
             ],
             "include": [
@@ -558,19 +558,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "1 379 € / personne"
+                    "price": "1 400 € / personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "1 210 € / personne"
+                    "price": "1 300 € / personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "1 195 € / personne"
+                    "price": "1 200 € / personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "1 160 € / personne"
+                    "price": "1 100 € / personne"
                 }
             ],
             "include": [
@@ -686,19 +686,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "290 € /personne"
+                    "price": "180 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "260 € /personne"
+                    "price": "165 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "220 € /personne"
+                    "price": "155 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "195 € /personne"
+                    "price": "145 € /personne"
                 }
             ],
             "include": [
@@ -706,11 +706,12 @@
                 "Ticket d’entrée dans les sites mentionnés dans le programme",
                 "Guide accompagnateur",
                 "Guide local",
-                "Hébergement en pension complète"
+                "Hébergement"
             ],
             "exclude": [
                 "Bouteille d’eau et boissons",
-                "Les activités non mentionnées dans le programme"
+                "Les activités non mentionnées dans le programme",
+                "repas"
             ]
         },
         {
@@ -734,19 +735,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "260 € /personne"
+                    "price": "180 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "230 € /personne"
+                    "price": "130 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "215 € /personne"
+                    "price": "120 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "195 € /personne"
+                    "price": "100 € /personne"
                 }
             ],
             "include": [
@@ -782,19 +783,19 @@
             "prices": [
                 {
                     "person_nbr": "02 personnes",
-                    "price": "280 € /personne"
+                    "price": "175 € /personne"
                 },
                 {
                     "person_nbr": "03 personnes",
-                    "price": "250 € /personne"
+                    "price": "160 € /personne"
                 },
                 {
                     "person_nbr": "04 personnes",
-                    "price": "230 € /personne"
+                    "price": "150 € /personne"
                 },
                 {
                     "person_nbr": "05 personnes ou plus",
-                    "price": "200 € /personne"
+                    "price": "140 € /personne"
                 }
             ],
             "include": [
@@ -802,11 +803,12 @@
                 "Ticket d’entrée dans les sites mentionnés dans le programme",
                 "Guide accompagnateur",
                 "Guide local",
-                "Hébergement en pension complète"
+                "Hébergement"
             ],
             "exclude": [
                 "Bouteille d’eau et boissons",
-                "Dépenses personnelles"
+                "Dépenses personnelles",
+                "Repas"
             ]
         }
     ]
