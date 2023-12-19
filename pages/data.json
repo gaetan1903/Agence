@@ -187,7 +187,7 @@
             "description": "La Rn7 est une route nationale de 971 km, qui relie Antananarivo et Tuléar. Ce circuit vous amène à la découverte des différentes cultures malagasy, des parcs nationaux comme Ranofana et Isalo, des réserves villageoises, de la plage et surtout, une rencontre avec la population locale.",
             "duration": "11 jours et 10 nuits",
             "image_folder": "rn7",
-            "price": "À partir de 1 140 € /personne",
+            "price": "À partir de 1 000 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -285,7 +285,7 @@
             "description": "Partez à l’aventure inédite dans l’ouest de Madagascar. S’embarquer dans une pirogue traditionnelle, et logeant le long du fleuve Tsiribihina pendant 03 jours et 02 nuits en bivouac. Ensuite, vous découvrirez le fameux parc national de Tsingy Bemaraha qui sera sûrement un de vos meilleurs souvenirs de votre vie. Puis, vous passerez par la forêt de Kirindy, l’allée de Baobab à Morondava et remonter à Antsirabe pour voir ses lacs mystérieux.",
             "duration": "11 jours et 10 nuits",
             "image_folder": "bemaraha",
-            "price": "À partir de 995 € /personne",
+            "price": "À partir de 1200 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -373,7 +373,7 @@
             "description": "La côte Est de Madagascar est la destination parfaite pour les amoureux de la nature, des animaux sauvages et de la plage. Pendant votre passage à Andasibe et à Vohimana, vous aurez l’occasion d’observer des lémuriens Indri Indri qui sont les plus grands lémuriens de Madagascar. Ensuite, vous continuez le périple vers Manambato et Ankan’ny Nofy pour faire un tour dans ces grands lacs et dans la réserve de Palmarium. Puis, le voyage continue vers l’île sainte Marie pour un séjour balnéaire et safari baleine.",
             "duration": "11 jours et 10 nuits",
             "image_folder": "est",
-            "price": "À partir de 990 € /personne",
+            "price": "À partir de 850 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -476,7 +476,7 @@
             "description": "Partez à la découverte de la plus belle montagne de Madagascar. Marojejy se trouve dans la partie nord-est de Madagascar, soit à 60km à l’ouest de la ville de Sambava. Marojejy figure parmi les plus beaux parcs nationaux de Madagascar, mais il faut vraiment être sportif et aventureux pour pouvoir découvrir l’ensemble de ce parc. Il est le seul endroit où vous pourrez observer le magnifique lémurien propithèque soyeux. A part cela, Marojejy vous plongera à la rencontre d’une biodiversité unique et exceptionnelle de Madagascar.",
             "duration": "09 jours et 08 nuits",
             "image_folder": "marojejy",
-            "price": "À partir de 995 € /personne",
+            "price": "À partir de 1 100 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -554,7 +554,7 @@
             "description": "Le nord de Madagascar est l’une des régions la plus riche en matière d’attraits touristiques du pays. On y trouve presque tous les quêtes des touristes comme des parcs nationaux, des faunes et flores, des belles plages, de l’histoire, de la culture etc. À Diego, vous tomberez sur le parc national d’Ankarana et Montagne d’ambre, les trois baies, la mer d’émeraude, plage de Ramena et la montagne des français. À Nosy Be, vous serez éblouis par ses petites iles avoisinantes, ses sites culturels et ainsi que ses parcs terrestres.<br><strong>Note :</strong> Vous pouvez commencer ce circuit soit en prenant un vol direct depuis chez vous vers Nosy Be, soit en passant par Antananarivo et ensuite prendre un vol domestique vers Nosy Be.",
             "duration": "13 jours et 14 nuits",
             "image_folder": "nord",
-            "price": "À partir de 1 160 € /personne",
+            "price": "À partir de 1 100 € /personne",
             "prices": [
                 {
                     "person_nbr": "02 personnes",
@@ -670,7 +670,7 @@
             "description": "Andasibe se trouve à 140 km à l’est d’Antananarivo, sur la rn2. Le parc est mondialement reconnue grâce à la présence de l’Indri indri qui est la plus grande espèce de lémurien à Madagascar. À part des lémuriens, d’autres animaux comme des caméléons, des serpents, des oiseaux, des amphibiens et des insectes sont également trouvés dans ce site.",
             "duration": "02 jours (nombre de jours personnalisable)",
             "image_folder": "andasibe",
-            "price": "À partir de 195 € /personne",
+            "price": "À partir de 145 € /personne",
             "programs": [
                 {
                     "day": 1,
@@ -719,7 +719,7 @@
             "description": "Vohimana se trouve à 148 km d’Antananarivo sur la rn2. C’est un endroit magnifique, calme et reposant, où les chants des oiseaux et les sons des rivières émerveilleront vos oreilles durant votre séjour. Vohimana n’est pas accessible en voiture, il faut marcher à pied environ 1,5 km pour rejoindre le relais de naturaliste qui est le seul établissement hôtelier de Vohimana. Pour les aventuriers, plusieurs circuits dans la forêt sont faisables à Vohimana. Des lémuriens, des reptiles, des amphibiens ou encore des insectes y seront au rendez-vous. Sans oublier les jolies cascades et piscines naturelles qui se trouvent juste à côté du relais.",
             "duration": "02 jours (nombre de jours personnalisable)",
             "image_folder": "vohimana",
-            "price": "À partir de 195 € /personne",
+            "price": "À partir de 100 € /personne",
             "programs": [
                 {
                     "day": 1,
@@ -767,7 +767,7 @@
             "description": "Antsirabe se trouve à 180km au sud d’Antananarivo, sur la rn7. C’est la troisième plus grande ville de Madagascar après Antananarivo et Toamasina. Antsirabe est une ville touristique, calme et propre; réputé par ses sources d’eau thermale et le fameux lac Tritriva.",
             "duration": "02 jours (nombre de jours personnalisable)",
             "image_folder": "antsirabe",
-            "price": "À partir de 200 € /personne",
+            "price": "À partir de 140 € /personne",
             "programs": [
                 {
                     "day": 1,
