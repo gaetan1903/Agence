@@ -662,6 +662,61 @@
                     "description": ""
                 }
             ]
+        },
+        {
+            "title": "PARC NATIONAL D’ANDRINGITRA",
+            "description": "Le parc national d’Andringitra est le deuxième plus haut sommet de Madagascar, avec une altitude de 2 658m. L’entrée du parc se trouve au sud d’Ambalavao en empruntant une piste secondaire de 47 km accessible seulement en 4x4. Andringitra est un vrai berceau des faunes et flores endémiques de Madagascar. On y trouve 15 espèces de lémuriens, 70 espèces d’amphibiens, environ 100 espèces d’oiseaux, 30 espèces d’orchidées et des milliers de plantes médicinales.",
+            "duration": "03 jours (nombre de jours personnalisable)",
+            "image_folder": "andringitra",
+            "price": "À partir de 380 € /personne",
+            "prices": [
+                {
+                    "person_nbr": "02 personnes",
+                    "price": "480 € /personne"
+                },
+                {
+                    "person_nbr": "03 personnes",
+                    "price": "430 € /personne"
+                },
+                {
+                    "person_nbr": "04 personnes",
+                    "price": "400 € /personne"
+                },
+                {
+                    "person_nbr": "05 personnes ou plus",
+                    "price": "380 € /personne"
+                }
+            ],
+            "include": [
+                "Transfert en 4x4 vers l’entrée du parc",
+                "Tous les repas dans le parc",
+                "Matériels de camping (tente et sac de couchage)",
+                "Porteurs",
+                "Ticket d’entrée et guidage",
+                "Bouteille d’eau minérale",
+                "Nuitée dans l’hôtel Tsaranoro"
+            ],
+            "exclude": [
+                "Repas en dehors du parc",
+                "Boissons et dépenses personnelles"
+            ],
+            "programs": [
+                {
+                    "day": 1,
+                    "distance": "Ambalavao – Camp Andriampotsy",
+                    "description": "Pour le transfert en 4x4 vers l’entrée du parc, il faut qu’on quitte Ambalavao à 07h00 et le trajet dure environ 03h de temps sur une piste secondaire. Nos porteurs et le guide local nous attendent déjà sur le point du départ du trek. Après le trajet en voiture, nous marchons vers le camp Andriampotsy où nous passerons la première nuit. Sur le chemin, nous apercevrons de loin les deux grandes cascades du parc (Rihambavy et Rihandahy). À midi, nous ferons un déjeuner pique-nique au bord d’une jolie piscine naturelle et vous pourrez également y baigner. Le trek de ce premier jour dure environ 05h.<br>Nuitée au camp Andriampotsy"
+                },
+                {
+                    "day": 2,
+                    "distance": "Andriampotsy – Pic Boby – Antaranomby",
+                    "description": "Après le petit déjeuner, nous montons au Pic Boby, l’ascension dure environ 02h30. Une fois arrivée au sommet, vous oublierez toutes les difficultés que vous avez enduré durant la montée et vous vous sentirez la grande joie au cœur d’avoir gravi la troisième plus haute montagne de Madagascar et surtout en voyant un si beau paysage unique au monde. Vous pourrez même apercevoir la côte est de la grande île. Ensuite, nous descendons vers le camp Antaranomby où nous passerons la deuxième nuit. La descente dure environ 03h.<br>Nuitée au camp Antaranomby"
+                },
+                {
+                    "day": 3,
+                    "distance": "Antaranomby – Vallée de Tsaranoro",
+                    "description": "C’est le dernier jour pour le trek à Andringitra. Après le petit déjeuner, nous marcherons sur une piste de 07 km à destination de Tsaranoro. Notre chauffeur nous y attend et nous conduira vers l'hôtel Tsaranoro où nous passerons la nuit.<br>Le jour suivant, vous pouvez continuez votre voyage vers le sud ou revenir à Antananarivo."
+                }
+            ]
         }
     ],
     "voyage": [
